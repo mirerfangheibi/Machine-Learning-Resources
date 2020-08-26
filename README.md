@@ -12,3 +12,12 @@
 * Courese URL: [http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/)
 
 * Lecture Videos Playlist: [https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+
+###  4.  (Stanford) CS224W: Machine Learning with Graphs
+
+* Courese URL: [http://web.stanford.edu/class/cs224w/index.html](http://web.stanford.edu/class/cs224w/index.html)
+
+* Lecture Videos Playlist: [http://snap.stanford.edu/class/cs224w-videos-2019/](http://snap.stanford.edu/class/cs224w-videos-2019/)
+
+
