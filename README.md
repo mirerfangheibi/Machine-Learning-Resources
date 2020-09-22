@@ -20,4 +20,9 @@
 
 * Lecture Videos Playlist: [http://snap.stanford.edu/class/cs224w-videos-2019/](http://snap.stanford.edu/class/cs224w-videos-2019/)
 
+### 5. (Cornell)CS4780/CS5780: Machine Learning for Intelligent Systems
+
+* Courese URL:[https://www.cs.cornell.edu/courses/cs4780/2018fa/](https://www.cs.cornell.edu/courses/cs4780/2018fa/)
+* Lecture Videos Playlist: [https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+
 
