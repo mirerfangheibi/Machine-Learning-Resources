@@ -22,11 +22,11 @@
 
 ### 5. (Cornell)CS4780/CS5780: Machine Learning for Intelligent Systems
 
-* Courese URL:[https://www.cs.cornell.edu/courses/cs4780/2018fa/](https://www.cs.cornell.edu/courses/cs4780/2018fa/)
+* Courese URL: [https://www.cs.cornell.edu/courses/cs4780/2018fa/](https://www.cs.cornell.edu/courses/cs4780/2018fa/)
 * Lecture Videos Playlist: [https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
 
 ### 6. CMSC 828W: Foundations of Deep Learning
 
-* Courese URL:[http://www.cs.umd.edu/class/fall2020/cmsc828W/](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
-* Lecture Videos Playlist:[https://www.youtube.com/watch?v=6Nctj1GCFVo&list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf](https://www.youtube.com/watch?v=6Nctj1GCFVo&list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
+* Courese URL: [http://www.cs.umd.edu/class/fall2020/cmsc828W/](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
+* Lecture Videos Playlist: [https://www.youtube.com/watch?v=6Nctj1GCFVo&list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf](https://www.youtube.com/watch?v=6Nctj1GCFVo&list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
