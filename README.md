@@ -34,5 +34,5 @@
 ### 7. EECS 498-007 / 598-005 Deep Learning for Computer Vision
 
 * Course URL: [https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
-* Lecture Video Playlist: [https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r] (https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+* Lecture Video Playlist: [https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
