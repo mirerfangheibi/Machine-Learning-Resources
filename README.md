@@ -30,3 +30,9 @@
 
 * Courese URL: [http://www.cs.umd.edu/class/fall2020/cmsc828W/](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
 * Lecture Videos Playlist: [https://www.youtube.com/watch?v=6Nctj1GCFVo&list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf](https://www.youtube.com/watch?v=6Nctj1GCFVo&list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf)
+
+### 7. EECS 498-007 / 598-005 Deep Learning for Computer Vision
+
+* Course URL: [https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
+* Lecture Video Playlist: [https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r] (https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+
