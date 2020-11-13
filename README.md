@@ -1,4 +1,7 @@
 # Deep Learning Resources
+
+The following materials are of high quality and free resources that I found related to the Deep Learning field.  I am continually updating here.
+
 ## Courses:
 
 ###  1.  (NYU) DEEP LEARNING 
