@@ -43,3 +43,7 @@ The following materials are of high quality and free resources that I found rela
 
 * Course URL: [https://cs.mcgill.ca/~wlh/comp551/schedule.html](https://cs.mcgill.ca/~wlh/comp551/schedule.html)
 
+## Books:
+
+###  1. Dive into Deep Learning
+* Book URL : [https://d2l.ai](https://d2l.ai)
