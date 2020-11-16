@@ -47,3 +47,9 @@ The following materials are of high quality and free resources that I found rela
 
 ###  1. Dive into Deep Learning
 * Book URL : [https://d2l.ai](https://d2l.ai)
+
+
+## Other Related Repos:
+
+### 1. Awesome MLOps
+Repo URL : [https://github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
