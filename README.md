@@ -39,9 +39,18 @@ The following materials are of high quality and free resources that I found rela
 * Course URL: [https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
 * Lecture Video Playlist: [https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
+
 ### 8.  (McGill)COMP 551 - Applied Machine Learning
 
 * Course URL: [https://cs.mcgill.ca/~wlh/comp551/schedule.html](https://cs.mcgill.ca/~wlh/comp551/schedule.html)
+
+### 9. (MIT) MITX 6.036 : Introduction to Machine Learning
+
+* Course URL: [https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+
+### 10. (MIT) 18.06SC: Linear Algebra
+
+* Course URL: [https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)
 
 ## Books:
 
