@@ -48,9 +48,18 @@ The following materials are of high quality and free resources that I found rela
 
 * Course URL: [https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 
-### 10. (MIT) 18.06SC: Linear Algebra
+### 10. (MIT) OCW 18.06SC: Linear Algebra
 
 * Course URL: [https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)
+
+
+### 11. (MIT) OCW 6.042J: Mathematics for Computer Science
+
+* Course URL: [https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+
+### 12. (MIT) OCW 6.S897: Machine Learning for Healthcare
+
+* Course URL: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/index.htm](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/index.htm)
 
 ## Books:
 
