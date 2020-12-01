@@ -61,6 +61,14 @@ The following materials are of high quality and free resources that I found rela
 
 * Course URL: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/index.htm](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/index.htm)
 
+### 13. (MIT) OCW 9.40: Introduction to Neural Computation
+
+* Course URL: [https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-40-introduction-to-neural-computation-spring-2018/](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-40-introduction-to-neural-computation-spring-2018/)
+
+### 14. (MIT) Mathematics of Big Data and Machine Learning
+
+* Course URL: [https://ocw.mit.edu/resources/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/](https://ocw.mit.edu/resources/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
+
 ## Books:
 
 ###  1. Dive into Deep Learning
