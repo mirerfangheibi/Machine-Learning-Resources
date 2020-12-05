@@ -69,6 +69,12 @@ The following materials are of high quality and free resources that I found rela
 
 * Course URL: [https://ocw.mit.edu/resources/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/](https://ocw.mit.edu/resources/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/)
 
+### 15. (Carnegie Mellon) 10-708: Probabilistic Graphical Models
+
+* Course URL: [https://sailinglab.github.io/pgm-spring-2019/](https://sailinglab.github.io/pgm-spring-2019/)
+
+
+
 ## Books:
 
 ###  1. Dive into Deep Learning
