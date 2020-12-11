@@ -73,6 +73,11 @@ The following materials are of high quality and free resources that I found rela
 
 * Course URL: [https://sailinglab.github.io/pgm-spring-2019/](https://sailinglab.github.io/pgm-spring-2019/)
 
+### 16. (Michigan State University) CSE 842: Natural Language Processing (A Hands-on Introduction to Natural Language Processing (NLP))
+
+* Course URL: [https://github.com/deskool/nlp-class](https://github.com/deskool/nlp-class)
+* Lecture Video Playlist:[https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw)
+
 
 
 ## Books:
