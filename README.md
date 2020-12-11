@@ -85,6 +85,9 @@ The following materials are of high quality and free resources that I found rela
 ###  1. Dive into Deep Learning
 * Book URL : [https://d2l.ai](https://d2l.ai)
 
+### 2. High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications
+* Book URL: [https://book-wright-ma.github.io/](https://book-wright-ma.github.io/)
+
 
 ## Other Related Repos:
 
