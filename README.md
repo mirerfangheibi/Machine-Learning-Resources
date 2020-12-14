@@ -88,6 +88,12 @@ The following materials are of high quality and free resources that I found rela
 ### 2. High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications
 * Book URL: [https://book-wright-ma.github.io/](https://book-wright-ma.github.io/)
 
+### 3. Machine Learning Yearning (Draft)
+* Book URL: [https://www.deeplearning.ai/machine-learning-yearning/](https://www.deeplearning.ai/machine-learning-yearning/)
+
+### 4. A Brief Introduction to Neural Networks
+* Book URL: [http://www.dkriesel.com/en/science/neural_networks](http://www.dkriesel.com/en/science/neural_networks)
+
 
 ## Other Related Repos:
 
