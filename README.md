@@ -82,18 +82,23 @@ The following materials are of high quality and free resources that I found rela
 
 ## Books:
 
-###  1. Dive into Deep Learning
+### 1. Deep Learning
+* Book URL: [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
+
+### 2. Dive into Deep Learning
 * Book URL : [https://d2l.ai](https://d2l.ai)
 
-### 2. High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications
+### 3. High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications
 * Book URL: [https://book-wright-ma.github.io/](https://book-wright-ma.github.io/)
 
-### 3. Machine Learning Yearning (Draft)
+### 4. Machine Learning Yearning (Draft)
 * Book URL: [https://www.deeplearning.ai/machine-learning-yearning/](https://www.deeplearning.ai/machine-learning-yearning/)
 
-### 4. A Brief Introduction to Neural Networks
+### 5. A Brief Introduction to Neural Networks
 * Book URL: [http://www.dkriesel.com/en/science/neural_networks](http://www.dkriesel.com/en/science/neural_networks)
 
+### 6. An Introduction to Statistical Learning with Applications in R
+* Book URL: [http://faculty.marshall.usc.edu/gareth-james/ISL/](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 ## Other Related Repos:
 
