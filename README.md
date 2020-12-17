@@ -100,6 +100,9 @@ The following materials are of high quality and free resources that I found rela
 ### 6. An Introduction to Statistical Learning with Applications in R
 * Book URL: [http://faculty.marshall.usc.edu/gareth-james/ISL/](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
+### 7. Reinforcement Learning: An Introduction
+* Book URL: [http://incompleteideas.net/book/the-book.html](http://incompleteideas.net/book/the-book.html)
+
 ## Other Related Repos:
 
 ### 1. Awesome MLOps
