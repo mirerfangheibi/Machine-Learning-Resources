@@ -103,6 +103,12 @@ The following materials are of high quality and free resources that I found rela
 ### 7. Reinforcement Learning: An Introduction
 * Book URL: [http://incompleteideas.net/book/the-book.html](http://incompleteideas.net/book/the-book.html)
 
+### 8. Speech and Language Processing
+* Book URL: [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/)
+
+### 9. Probabilistic Machine Learning: An Introduction
+* Book URL: [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html)
+
 ## Other Related Repos:
 
 ### 1. Awesome MLOps
