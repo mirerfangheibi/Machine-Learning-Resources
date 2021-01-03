@@ -118,6 +118,12 @@ The following materials are of high quality and free resources that I found rela
 ### 12. Machine Learning and Big Data
 * Book URL: [http://www.kareemalkaseer.com/books/ml](http://www.kareemalkaseer.com/books/ml)
 
+### 13. Think Bayes
+* Book URL: [https://greenteapress.com/wp/think-bayes/](https://greenteapress.com/wp/think-bayes/)
+
+### 14. Python Data Science Handbook
+* Book URL: [https://github.com/jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 ## Other Related Repos:
 
 ### 1. Awesome MLOps
