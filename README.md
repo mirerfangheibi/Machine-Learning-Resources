@@ -124,6 +124,17 @@ The following materials are of high quality and free resources that I found rela
 ### 14. Python Data Science Handbook
 * Book URL: [https://github.com/jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+### 15. Neural Networks and Deep Learning
+* Book URL: [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
+
+### 16. Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit
+* Book URL: [https://www.nltk.org/book/](https://www.nltk.org/book/)
+
+### 17. Linear Algebra
+* Book URL: [https://hefferon.net/linearalgebra/index.html](https://hefferon.net/linearalgebra/index.html)
+
+
+
 ## Other Related Repos:
 
 ### 1. Awesome MLOps
