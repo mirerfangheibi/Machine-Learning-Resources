@@ -109,6 +109,15 @@ The following materials are of high quality and free resources that I found rela
 ### 9. Probabilistic Machine Learning: An Introduction
 * Book URL: [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html)
 
+### 10. Statistical inference for data science
+* Book URL: [https://leanpub.com/LittleInferenceBook](https://leanpub.com/LittleInferenceBook)
+
+### 11. Statistical Learning with Sparsity: The Lasso and Generalizations
+* Book URL: [https://web.stanford.edu/~hastie/StatLearnSparsity/](https://web.stanford.edu/~hastie/StatLearnSparsity/)
+
+### 12. Machine Learning and Big Data
+* Book URL: [http://www.kareemalkaseer.com/books/ml](http://www.kareemalkaseer.com/books/ml)
+
 ## Other Related Repos:
 
 ### 1. Awesome MLOps
