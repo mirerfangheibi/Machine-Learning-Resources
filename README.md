@@ -137,5 +137,9 @@ The following materials are of high quality and free resources that I found rela
 
 ## Other Related Repos:
 
-### 1. Awesome MLOps
+### 1. Deep Learning Drizzle
+
+Repo URL: [https://github.com/kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
+
+### 2. Awesome MLOps
 Repo URL : [https://github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
