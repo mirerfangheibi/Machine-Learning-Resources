@@ -133,6 +133,9 @@ The following materials are of high quality and free resources that I found rela
 ### 17. Linear Algebra
 * Book URL: [https://hefferon.net/linearalgebra/index.html](https://hefferon.net/linearalgebra/index.html)
 
+### 18. Convex Optimization
+* Book URL: [https://stanford.edu/~boyd/cvxbook/](https://stanford.edu/~boyd/cvxbook/)
+
 
 
 ## Other Related Repos:
