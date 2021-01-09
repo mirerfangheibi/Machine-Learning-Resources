@@ -80,7 +80,7 @@ The following materials are of high quality and free resources that I found rela
 
 
 
-## Books:
+## Books and Articles:
 
 ### 1. Deep Learning
 * Book URL: [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
@@ -136,7 +136,36 @@ The following materials are of high quality and free resources that I found rela
 ### 18. Convex Optimization
 * Book URL: [https://stanford.edu/~boyd/cvxbook/](https://stanford.edu/~boyd/cvxbook/)
 
+### 19. Pattern Recognition and Machine Learning
+* Book URL: [https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 
+### 20. Understanding Machine Learning: From Theory to Algorithms
+* Book URL: [https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+
+### 21. Foundations of Machine Learning
+* Book URL: [https://cs.nyu.edu/~mohri/mlbook/] (https://cs.nyu.edu/~mohri/mlbook/)
+
+### 22. Automated Machine Learning: Methods, Systems, Challenges
+* Book URL: [https://www.automl.org/book/](https://www.automl.org/book/)
+
+### 23. Model-based Machine Learning
+* Book URL: [https://mbmlbook.com/](https://mbmlbook.com/)
+
+### 24. Bayesian models for machine learning
+* Book URL: [http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf](http://www.columbia.edu/~jwp2128/Teaching/E6720/BayesianModelsMachineLearning2016.pdf)
+
+### 25. Algorithmic Aspects of Machine Learning
+* Book URL: [http://people.csail.mit.edu/moitra/docs/bookex.pdf](http://people.csail.mit.edu/moitra/docs/bookex.pdf)
+
+### 26. Machine Learning Interviews
+* Book URL: [https://github.com/chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design)
+
+### 27. Causality for Machine Learning
+* Article URL: [https://arxiv.org/abs/1911.10500](https://arxiv.org/abs/1911.10500)
+
+### 28. Gaussian Processes for Machine Learning
+
+* Book URL: [http://www.gaussianprocess.org/gpml/](http://www.gaussianprocess.org/gpml/)
 
 ## Other Related Repos:
 
