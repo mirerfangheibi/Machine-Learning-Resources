@@ -76,7 +76,11 @@ The following materials are of high quality and free resources that I found rela
 ### 16. (Michigan State University) CSE 842: Natural Language Processing (A Hands-on Introduction to Natural Language Processing (NLP))
 
 * Course URL: [https://github.com/deskool/nlp-class](https://github.com/deskool/nlp-class)
-* Lecture Video Playlist:[https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw)
+* Lecture Video Playlist: [https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw](https://www.youtube.com/channel/UCYGBs23woNtXUSl6AugHNXw)
+
+### 17. (Stanford) CS231n: Convolutional Neural Networks for Visual Recognition
+* Course URL: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+* Lecture Video Playlist: [https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 
 
