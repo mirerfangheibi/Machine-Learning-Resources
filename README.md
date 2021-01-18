@@ -82,6 +82,10 @@ The following materials are of high quality and free resources that I found rela
 * Course URL: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 * Lecture Video Playlist: [https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
+### 18. (UAustin): Optimization Algorithms
+
+* Lecture Video Playlist: [https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)
+
 
 
 ## Books and Articles:
