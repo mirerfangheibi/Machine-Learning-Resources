@@ -86,6 +86,25 @@ The following materials are of high quality and free resources that I found rela
 
 * Lecture Video Playlist: [https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)
 
+### 19. (Cornell Tech) CS 5787: Applied Machine Learning Fall 2020
+
+* Lecture Video Playlist: [https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83&ab_channel=VolodymyrKuleshov](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83&ab_channel=VolodymyrKuleshov)
+
+### 20. Full Stack Deep Learning
+
+* Course URL: [https://course.fullstackdeeplearning.com/](https://course.fullstackdeeplearning.com/)
+
+### 21. (Stanford) CS 329S: Machine Learning Systems Design
+
+* Course URL: [https://stanford-cs329s.github.io/syllabus.html](https://stanford-cs329s.github.io/syllabus.html)
+
+### 22. (MIT) RES.6-012 Introduction to Probability, Spring 2018
+
+* Leture Video Playlist: [https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+
+### 23. (MIT) 6.874 Computational Systems Biology: Deep Learning in the Life Sciences
+
+* Course URL: [https://mit6874.github.io/](https://mit6874.github.io/)
 
 
 ## Books and Articles:
@@ -175,11 +194,17 @@ The following materials are of high quality and free resources that I found rela
 
 * Book URL: [http://www.gaussianprocess.org/gpml/](http://www.gaussianprocess.org/gpml/)
 
+### 29. The Matrix Cookbook
+
+* Book URL: [https://mit6874.github.io/assets/matrix-cookbook.pdf](https://mit6874.github.io/assets/matrix-cookbook.pdf)
+
 ## Other Related Repos:
 
 ### 1. Deep Learning Drizzle
-
 Repo URL: [https://github.com/kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
 
 ### 2. Awesome MLOps
 Repo URL : [https://github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
+
+### 3. Computer Science courses with video lectures
+Repo URL: [https://github.com/Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
