@@ -6,6 +6,9 @@ The following materials are of high quality and free resources that I found rela
 
 ###  1.  (NYU) DEEP LEARNING 
 * Course URL: [https://atcold.github.io/pytorch-Deep-Learning/](https://atcold.github.io/pytorch-Deep-Learning/)
+* 2020 Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+* Deep Learning SP21 practica: [https://www.youtube.com/watch?v=EyKiYVwrdjE&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI](https://www.youtube.com/watch?v=EyKiYVwrdjE&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+
 
 ###  2.  DeepMind x UCL | Deep Learning Lecture Series 2020
 * Lecture Videos Playlist: [https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
@@ -107,6 +110,31 @@ The following materials are of high quality and free resources that I found rela
 * Course URL: [https://mit6874.github.io/](https://mit6874.github.io/)
 
 
+### 24. (MIT) 6.S191 Introduction to Deep Learning
+* Course URL: [http://introtodeeplearning.com/](http://introtodeeplearning.com/)
+* Lecture Video Playlist: [https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+### 25. Deep Learning With PyTorch - Full Course
+* Video [https://www.youtube.com/watch?v=c36lUUr864M&feature=youtu.be&ab_channel=PythonEngineer](https://www.youtube.com/watch?v=c36lUUr864M&feature=youtu.be&ab_channel=PythonEngineer)
+
+### 26. MIT Vision Seminar
+* Twitter thread: [https://twitter.com/xavierpuigf/status/1365361054516191234?s=20](https://twitter.com/xavierpuigf/status/1365361054516191234?s=20)
+
+### 27. Undergrad / Graduate Mathematical Courses:
+* YouTube Channel: [https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ/playlists](https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ/playlists)
+
+### 28. (Durham University) Deep Learning and Reinforcement Learning:
+* Course URL: https://cwkx.github.io/teaching.html
+* Deep Learning Lecture Video Playlist: [https://www.youtube.com/playlist?list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57](https://www.youtube.com/playlist?list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57)
+* Reinforcement Learning Lecture Video Playlist: [https://www.youtube.com/playlist?list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE](https://www.youtube.com/playlist?list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE)
+
+### 29. Machine Learning and Deep Learning News:
+* Video Playlist: [https://www.youtube.com/playlist?list=PLTKMiZHVd_2K2Yw-h0C096pFhq_8O1Pnw](https://www.youtube.com/playlist?list=PLTKMiZHVd_2K2Yw-h0C096pFhq_8O1Pnw)
+
+### 30. (Wisconsin-Madison) Stat453: Introduction to Deep Learning and Generative Models :
+* Video Lecture Playlist(Spring 2020): [https://www.youtube.com/playlist?list=PLTKMiZHVd_2JkR6QtQEnml7swCnFBtq4P](https://www.youtube.com/playlist?list=PLTKMiZHVd_2JkR6QtQEnml7swCnFBtq4P)
+* Video Lecture Playlist(Spring 2021): [https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
+
 ## Books and Articles:
 
 ### 1. Deep Learning
@@ -198,7 +226,7 @@ The following materials are of high quality and free resources that I found rela
 
 * Book URL: [https://mit6874.github.io/assets/matrix-cookbook.pdf](https://mit6874.github.io/assets/matrix-cookbook.pdf)
 
-## Other Related Repos:
+## Other Related Repos/ Lists/ Posts:
 
 ### 1. Deep Learning Drizzle
 Repo URL: [https://github.com/kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
@@ -208,3 +236,6 @@ Repo URL : [https://github.com/visenger/awesome-mlops](https://github.com/viseng
 
 ### 3. Computer Science courses with video lectures
 Repo URL: [https://github.com/Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
+### 4. 10 Must Read ML Blog Posts
+Post URL: [https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts](https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts)
