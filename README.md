@@ -135,6 +135,11 @@ The following materials are of high quality and free resources that I found rela
 * Video Lecture Playlist(Spring 2020): [https://www.youtube.com/playlist?list=PLTKMiZHVd_2JkR6QtQEnml7swCnFBtq4P](https://www.youtube.com/playlist?list=PLTKMiZHVd_2JkR6QtQEnml7swCnFBtq4P)
 * Video Lecture Playlist(Spring 2021): [https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 
+### 31. (Tübingen University): Machine Learning Channel:
+
+* Channel URL: [https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
+
+
 ## Books and Articles:
 
 ### 1. Deep Learning
