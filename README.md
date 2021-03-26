@@ -124,7 +124,7 @@ The following materials are of high quality and free resources that I found rela
 * YouTube Channel: [https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ/playlists](https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ/playlists)
 
 ### 28. (Durham University) Deep Learning and Reinforcement Learning:
-* Course URL: https://cwkx.github.io/teaching.html
+* Course URL: [https://cwkx.github.io/teaching.html](https://cwkx.github.io/teaching.html)
 * Deep Learning Lecture Video Playlist: [https://www.youtube.com/playlist?list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57](https://www.youtube.com/playlist?list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57)
 * Reinforcement Learning Lecture Video Playlist: [https://www.youtube.com/playlist?list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE](https://www.youtube.com/playlist?list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE)
 
@@ -139,6 +139,34 @@ The following materials are of high quality and free resources that I found rela
 
 * Channel URL: [https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
 
+### 32. (UC Berkeley) CS 182: Deep Learning
+
+* Video Lecture Playlist (Spring 2021): [https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+
+### 33. (UC Berkeley) CS 285: Deep Reinforcement Learning
+
+* Video Lecture Playlist (Fall 2020): [https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+
+### 34. (UofT) CSC2547: Introduction to Reinforcement Learning
+
+* Course URL: [https://amfarahmand.github.io/IntroRL/](https://amfarahmand.github.io/IntroRL/)
+* Video Lecture Playlist (Spring 2021): [https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq)
+
+### 35. (OpenMined) The Private AI Series
+
+* Course URL: [https://courses.openmined.org/](https://courses.openmined.org/)
+
+### 36. Deep Learning Crash Course
+* Video Lecture Playlist (2021): [https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)
+
+### 37. Practical Deep Learning for Coders
+
+* Course URL: [https://course.fast.ai/](https://course.fast.ai/)
+* Course Video URL: [https://www.youtube.com/watch?v=0oyCUWLL_fU](https://www.youtube.com/watch?v=0oyCUWLL_fU)
+
+### 38. (CMU) CS11-747:  Neural Nets for NLP 2021
+
+* Video Lecture Playlist (2021): [https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 
 ## Books and Articles:
 
@@ -231,7 +259,7 @@ The following materials are of high quality and free resources that I found rela
 
 * Book URL: [https://mit6874.github.io/assets/matrix-cookbook.pdf](https://mit6874.github.io/assets/matrix-cookbook.pdf)
 
-## Other Related Repos/ Lists/ Posts:
+## Other Related Repos/ Lists/ Posts/ Blogs:
 
 ### 1. Deep Learning Drizzle
 Repo URL: [https://github.com/kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
@@ -244,3 +272,6 @@ Repo URL: [https://github.com/Developer-Y/cs-video-courses](https://github.com/D
 
 ### 4. 10 Must Read ML Blog Posts
 Post URL: [https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts](https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts)
+
+### 5. Christopher Olah's Blog
+Blog URL: [http://colah.github.io/](http://colah.github.io/)
