@@ -261,17 +261,21 @@ The following materials are of high quality and free resources that I found rela
 
 ## Other Related Repos/ Lists/ Posts/ Blogs:
 
-### 1. Deep Learning Drizzle
+### 1. My Personal DeepSense Blog
+
+* Blog URL: [https://deepsense.ca/author/mgheibi/](https://deepsense.ca/author/mgheibi/)
+
+### 2. Deep Learning Drizzle
 Repo URL: [https://github.com/kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
 
-### 2. Awesome MLOps
+### 3. Awesome MLOps
 Repo URL : [https://github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
 
-### 3. Computer Science courses with video lectures
+### 4. Computer Science courses with video lectures
 Repo URL: [https://github.com/Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-### 4. 10 Must Read ML Blog Posts
+### 5. 10 Must Read ML Blog Posts
 Post URL: [https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts](https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts)
 
-### 5. Christopher Olah's Blog
+### 6. Christopher Olah's Blog
 Blog URL: [http://colah.github.io/](http://colah.github.io/)
