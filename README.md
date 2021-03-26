@@ -263,7 +263,7 @@ The following materials are of high quality and free resources that I found rela
 
 ### 1. My Personal DeepSense Blog
 
-* Blog URL: [https://deepsense.ca/author/mgheibi/](https://deepsense.ca/author/mgheibi/)
+Blog URL: [https://deepsense.ca/author/mgheibi/](https://deepsense.ca/author/mgheibi/)
 
 ### 2. Deep Learning Drizzle
 Repo URL: [https://github.com/kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
