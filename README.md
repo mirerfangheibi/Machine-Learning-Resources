@@ -259,6 +259,14 @@ The following materials are of high quality and free resources that I found rela
 
 * Book URL: [https://mit6874.github.io/assets/matrix-cookbook.pdf](https://mit6874.github.io/assets/matrix-cookbook.pdf)
 
+### 30. Adversarial Robustness - Theory and Practice
+
+* Book URL: [https://adversarial-ml-tutorial.org/](https://adversarial-ml-tutorial.org/)
+
+### 31. Learning Theory from First Principles [Draft]
+
+* Book URL: [https://www.di.ens.fr/~fbach/ltfp_book.pdf](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
+
 ## Other Related Repos/ Lists/ Posts/ Blogs:
 
 ### 1. My Personal DeepSense Blog
