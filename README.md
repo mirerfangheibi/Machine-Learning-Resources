@@ -289,4 +289,4 @@ Post URL: [https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts](https
 Blog URL: [http://colah.github.io/](http://colah.github.io/)
 
 ### 7. learning github repo
-* Repo URL: [https://github.com/amitness/learning](https://github.com/amitness/learning)
+Repo URL: [https://github.com/amitness/learning](https://github.com/amitness/learning)
