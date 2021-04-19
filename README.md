@@ -168,6 +168,10 @@ The following materials are of high quality and free resources that I found rela
 
 * Video Lecture Playlist (2021): [https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
 
+### 39. (UC Berkeley) CS W182: Designing, Visualizing and Understanding Deep Neural Networks
+* Course URL: [https://cs182sp21.github.io/](https://cs182sp21.github.io/)
+* Video Lecture Playlist (2021): [https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+
 ## Books and Articles:
 
 ### 1. Deep Learning
