@@ -271,6 +271,10 @@ The following materials are of high quality and free resources that I found rela
 
 * Book URL: [https://www.di.ens.fr/~fbach/ltfp_book.pdf](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 
+### 32. Introduction to Probability (Second Edition)
+
+* Book URL: [http://probabilitybook.net/](http://probabilitybook.net/)
+
 ## Other Related Repos/ Lists/ Posts/ Blogs:
 
 ### 1. My Personal DeepSense Blog
