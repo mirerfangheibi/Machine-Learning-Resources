@@ -172,6 +172,10 @@ The following materials are of high quality and free resources that I found rela
 * Course URL: [https://cs182sp21.github.io/](https://cs182sp21.github.io/)
 * Video Lecture Playlist (2021): [https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
+### 40. (Harvard) Statistics 110 (Probability)
+
+* Video Lecture Playlist [https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
 ## Books and Articles:
 
 ### 1. Deep Learning
