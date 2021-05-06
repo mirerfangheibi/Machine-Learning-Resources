@@ -279,6 +279,10 @@ The following materials are of high quality and free resources that I found rela
 
 * Book URL: [http://probabilitybook.net/](http://probabilitybook.net/)
 
+### 33. Bayesian Reasoning and Machine Learning
+
+* Book URL: [http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
+
 ## Other Related Repos/ Lists/ Posts/ Blogs:
 
 ### 1. My Personal DeepSense Blog
