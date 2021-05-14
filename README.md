@@ -24,7 +24,9 @@ The following materials are of high quality and free resources that I found rela
 
 * Courese URL: [http://web.stanford.edu/class/cs224w/index.html](http://web.stanford.edu/class/cs224w/index.html)
 
-* Lecture Videos Playlist: [http://snap.stanford.edu/class/cs224w-videos-2019/](http://snap.stanford.edu/class/cs224w-videos-2019/)
+* Lecture Videos Playlist (2019): [http://snap.stanford.edu/class/cs224w-videos-2019/](http://snap.stanford.edu/class/cs224w-videos-2019/)
+
+* Lecture Videos Playlist (2021): [https://www.youtube.com/playlist?list=PLuv1FSpHurUemjLiP4L1x9k6Z9D8rNbYW](https://www.youtube.com/playlist?list=PLuv1FSpHurUemjLiP4L1x9k6Z9D8rNbYW)
 
 ### 5.  (Cornell)CS4780/CS5780: Machine Learning for Intelligent Systems
 
@@ -96,6 +98,8 @@ The following materials are of high quality and free resources that I found rela
 ### 20. Full Stack Deep Learning
 
 * Course URL: [https://course.fullstackdeeplearning.com/](https://course.fullstackdeeplearning.com/)
+
+* Lecture Video Playlist (2021): [https://www.youtube.com/playlist?list=PLuv1FSpHurUc2nlabZjCLLe8EQa9fOoa9](https://www.youtube.com/playlist?list=PLuv1FSpHurUc2nlabZjCLLe8EQa9fOoa9)
 
 ### 21. (Stanford) CS 329S: Machine Learning Systems Design
 
@@ -174,7 +178,31 @@ The following materials are of high quality and free resources that I found rela
 
 ### 40. (Harvard) Statistics 110 (Probability)
 
-* Video Lecture Playlist [https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* Video Lecture Playlist: [https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+### 41. (TUM) Introduction to Deep Learning (I2DL)
+
+* Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLuv1FSpHurUdmk7v06MDyIx0SDxTrIoqk](https://www.youtube.com/playlist?list=PLuv1FSpHurUdmk7v06MDyIx0SDxTrIoqk)
+
+### 42. (Stanford) CS330: Deep Multi-Task and Meta Learning
+
+* Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+
+
+### 43. (ASU) Reinforcement Learning
+
+* Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn](https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn)
+
+### 44. (TUM) Advanced Deep Learning for Computer Vision (ADL4CV)
+
+* Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLuv1FSpHurUcQi2CwFIVQelSFCzxphJqz](https://www.youtube.com/playlist?list=PLuv1FSpHurUcQi2CwFIVQelSFCzxphJqz)
+
+### 45. (TUM) Computer Vision 3: Detection, Segmentation and Tracking (CV3DST)
+* Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLuv1FSpHurUd08wNo1FMd3eCUZXm8qexe](https://www.youtube.com/playlist?list=PLuv1FSpHurUd08wNo1FMd3eCUZXm8qexe)
+
+### 46. (NUS) CS5477/CS4277: 3D Computer Vision
+* Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLuv1FSpHurUflLnJF6hgi0FkeNG1zSFCZ](https://www.youtube.com/playlist?list=PLuv1FSpHurUflLnJF6hgi0FkeNG1zSFCZ)
+
 
 ## Books and Articles:
 
@@ -306,3 +334,6 @@ Blog URL: [http://colah.github.io/](http://colah.github.io/)
 
 ### 7. learning github repo
 Repo URL: [https://github.com/amitness/learning](https://github.com/amitness/learning)
+
+### 8. MLOps resources Twitter thread by @omarsar0:
+Thread URL: [https://twitter.com/omarsar0/status/1393162095810723845?s=28](https://twitter.com/omarsar0/status/1393162095810723845?s=28)
