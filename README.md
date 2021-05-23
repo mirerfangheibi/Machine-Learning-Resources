@@ -203,6 +203,10 @@ The following materials are of high quality and free resources that I found rela
 ### 46. (NUS) CS5477/CS4277: 3D Computer Vision
 * Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLuv1FSpHurUflLnJF6hgi0FkeNG1zSFCZ](https://www.youtube.com/playlist?list=PLuv1FSpHurUflLnJF6hgi0FkeNG1zSFCZ)
 
+### 47. (MIT) 6.0002: Intro to Computational Thinking and Data Science
+
+* Course URL: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+* Video Lecture Playlist:[https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 
 ## Books and Articles:
 
