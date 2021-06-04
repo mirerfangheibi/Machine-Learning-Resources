@@ -208,6 +208,16 @@ The following materials are of high quality and free resources that I found rela
 * Course URL: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 * Video Lecture Playlist:[https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 
+### 48. Reproducible Deep Learning
+
+* Course URL: [https://www.sscardapane.it/teaching/reproducibledl/](https://www.sscardapane.it/teaching/reproducibledl/)
+
+
+### 49. Made With ML
+
+* Course URL: [https://madewithml.com/](https://madewithml.com/)
+
+
 ## Books and Articles:
 
 ### 1. Deep Learning
@@ -315,7 +325,7 @@ The following materials are of high quality and free resources that I found rela
 
 * Book URL: [http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
 
-## Other Related Repos/ Lists/ Posts/ Blogs:
+## Other Related Repos/ Lists/ Posts/ Blogs/ Talks:
 
 ### 1. My Personal DeepSense Blog
 
@@ -341,3 +351,7 @@ Repo URL: [https://github.com/amitness/learning](https://github.com/amitness/lea
 
 ### 8. MLOps resources Twitter thread by @omarsar0:
 Thread URL: [https://twitter.com/omarsar0/status/1393162095810723845?s=28](https://twitter.com/omarsar0/status/1393162095810723845?s=28)
+
+### 9. Geometric Deep Learning
+
+* Talk URL: [https://slideslive.com/38956431/invited-talk-michael-bronstein](https://slideslive.com/38956431/invited-talk-michael-bronstein)
