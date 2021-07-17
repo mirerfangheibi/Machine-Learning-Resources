@@ -212,6 +212,11 @@ The following materials are of high quality and free resources that I found rela
 
 * Course URL: [https://www.sscardapane.it/teaching/reproducibledl/](https://www.sscardapane.it/teaching/reproducibledl/)
 
+### 49. Applied Deep Learning
+
+* Course URL: [https://github.com/maziarraissi/Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning)
+* Video Lecture Playlist:[https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
+
 
 ### 49. Made With ML
 
