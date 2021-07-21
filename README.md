@@ -218,9 +218,15 @@ The following materials are of high quality and free resources that I found rela
 * Video Lecture Playlist:[https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4)
 
 
-### 49. Made With ML
+### 50. Made With ML
 
 * Course URL: [https://madewithml.com/](https://madewithml.com/)
+
+### 51. (Princeton) COS 302 / SML 305: Mathematics for Numerical Computing and Machine Learning
+
+* Course URL: [https://www.cs.princeton.edu/courses/archive/spring21/cos302/](https://www.cs.princeton.edu/courses/archive/spring21/cos302/)
+
+
 
 
 ## Books and Articles:
