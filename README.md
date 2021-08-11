@@ -226,6 +226,9 @@ The following materials are of high quality and free resources that I found rela
 
 * Course URL: [https://www.cs.princeton.edu/courses/archive/spring21/cos302/](https://www.cs.princeton.edu/courses/archive/spring21/cos302/)
 
+### 52. AMMI Geometric Deep Learning Course
+* Video Lecture Playlist:[https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
+
 
 
 
