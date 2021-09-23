@@ -230,6 +230,11 @@ The following materials are of high quality and free resources that I found rela
 * Video Lecture Playlist:[https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
 
 
+### 53. An Introduction to Statistical Learning
+
+* Book URL: [https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf)
+* Online Course: [https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
 
 
 ## Books and Articles:
