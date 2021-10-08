@@ -236,6 +236,11 @@ The following materials are of high quality and free resources that I found rela
 * Online Course: [https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 
+### 54. (CMU) Multimodal machine learning (MMML)
+* Course URL: [https://cmu-multicomp-lab.github.io/mmml-course/fall2020/](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
+
+### 55. (CMU) Probabilistic Graphical Models (PGM)
+* Course URL: [https://sailinglab.github.io/pgm-spring-2019/](https://sailinglab.github.io/pgm-spring-2019/)
 
 ## Books and Articles:
 
