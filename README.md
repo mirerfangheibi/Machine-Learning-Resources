@@ -344,6 +344,10 @@ The following materials are of high quality and free resources that I found rela
 
 * Book URL: [http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
 
+### 34. Introduction to Probability for Data Science
+
+* Book URL: [https://probability4datascience.com/](https://probability4datascience.com/)
+
 ## Other Related Repos/ Lists/ Posts/ Blogs/ Talks:
 
 ### 1. My Personal DeepSense Blog
