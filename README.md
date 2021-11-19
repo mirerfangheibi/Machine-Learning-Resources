@@ -242,6 +242,13 @@ The following materials are of high quality and free resources that I found rela
 ### 55. (CMU) Probabilistic Graphical Models (PGM)
 * Course URL: [https://sailinglab.github.io/pgm-spring-2019/](https://sailinglab.github.io/pgm-spring-2019/)
 
+### 56. (École Polytechnique de Montréal) Machine Learning, Fall 2021:
+* Course URL: [https://chandar-lab.github.io/INF8245E/](https://chandar-lab.github.io/INF8245E/)
+* Video Lecture Playlist: [https://www.youtube.com/watch?v=-6ChHxllZVU&list=PLImtCgowF_ETupFCGQqmvS_2nqErZbifm](https://www.youtube.com/watch?v=-6ChHxllZVU&list=PLImtCgowF_ETupFCGQqmvS_2nqErZbifm)
+
+### 57. (École Polytechnique de Montréal) Reinforcement Learning, Fall 2021:
+* Video Lecture Playlist: [https://www.youtube.com/watch?v=J9JZyyPCJcQ&list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua](https://www.youtube.com/watch?v=J9JZyyPCJcQ&list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
+
 ## Books and Articles:
 
 ### 1. Deep Learning
