@@ -249,6 +249,15 @@ The following materials are of high quality and free resources that I found rela
 ### 57. (École Polytechnique de Montréal) Reinforcement Learning, Fall 2021:
 * Video Lecture Playlist: [https://www.youtube.com/watch?v=J9JZyyPCJcQ&list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua](https://www.youtube.com/watch?v=J9JZyyPCJcQ&list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
 
+### 58. (MIT) Artificial Intelligence, Fall 2010:
+* Course URL: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+* Video Lecture Playlist: [https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+
+### 59. (Caltech) Learning From Data, 2012
+
+* Course URL: [https://home.work.caltech.edu/telecourse.html](https://home.work.caltech.edu/telecourse.html)
+* Video Lecture Playlist:[http://www.youtube.com/playlist?list=PLD63A284B7615313A](http://www.youtube.com/playlist?list=PLD63A284B7615313A)
+
 ## Books and Articles:
 
 ### 1. Deep Learning
