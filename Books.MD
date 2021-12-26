@@ -1,3 +1,18 @@
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
+
 |                           1. DeepLearning                          	|                           2. Dive into Deep Learning                          	|                           3. High-Dimensional Data Analysis with Low-Dimensional Models:<br> Principles, Computation, and Applications                          	|
 |:--------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------:	|
 |                           **By:**  Ian Goodfellow, Yoshua Bengio and Aaron Courville <br>  **Year:** 2016                           	|                           **By:** Various Academics  <br> **Year:** 2021                           	|                           By: Richard Szeliski, Edition:2nd.,  Year:2021                           	|
