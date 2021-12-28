@@ -1,0 +1,321 @@
+{
+    "books": [
+        {
+            "title": "Deep Learning",
+            "front_page": "https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262035613%26type%3D.jpg",
+            "author": "Ian Goodfellow, Yoshua Bengio and Aaron Courville",
+            "edition": null,
+            "publisher": "MIT Press",
+            "year": "2016",
+            "URL": "https://www.deeplearningbook.org"
+        },
+        {
+            "title": "Dive into Deep Learning",
+            "front_page": "https://d2l.ai/_images/front.png",
+            "author": "Aston Zhang, Zachary C. Lipton, Mu Li and Alexander J. Smola",
+            "edition": null,
+            "publisher": null,
+            "year": "2021",
+            "URL": "https://d2l.ai"
+        },
+        {
+            "title": "High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications",
+            "front_page": "https://book-wright-ma.github.io/book-cover.jpg",
+            "author": "John Wright and Yi Ma",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2022",
+            "URL": "https://book-wright-ma.github.io"
+        },
+        {
+            "title": "Machine Learning Yearning",
+            "front_page": null,
+            "author": "Andrew Ng",
+            "edition": null,
+            "publisher": null,
+            "year": "2018",
+            "URL": "https://www.deeplearning.ai/programs"
+        },
+        {
+            "title": "A Brief Introduction to Neural Networks",
+            "front_page": null,
+            "author": "David Kriesel",
+            "edition": null,
+            "publisher": null,
+            "year": "2007",
+            "URL": "http://www.dkriesel.com/en/science/neural_networks"
+        },
+        {
+            "title": "An Introduction to Statistical Learning",
+            "front_page": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-0716-1418-1",
+            "author": "Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani",
+            "edition": "2",
+            "publisher": "Springer",
+            "year": "2021",
+            "URL": "https://www.statlearning.com"
+        },
+        {
+            "title": "Speech and Language Processing",
+            "front_page": null,
+            "author": "Dan Jurafsky and James H. Martin",
+            "edition": "3",
+            "publisher": null,
+            "year": "2022",
+            "URL": "https://web.stanford.edu/~jurafsky/slp3"
+        },
+        {
+            "title": "Reinforcement Learning: An Introduction",
+            "front_page": "https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg",
+            "author": "Richard S. Sutton and Andrew G. Barto",
+            "edition": "2",
+            "publisher": "MIT Press",
+            "year": "2018",
+            "URL": "http://incompleteideas.net/book/the-book.html"
+        },
+        {
+            "title": "Probabilistic Machine Learning: An Introduction",
+            "front_page": "https://probml.github.io/pml-book/figures/cover1-v2.png",
+            "author": "Kevin P. Murphy",
+            "edition": null,
+            "publisher": "MIT Press",
+            "year": "2022",
+            "URL": "http://incompleteideas.net/book/the-book.html"
+        },
+        {
+            "title": "Statistical Learning with Sparsity: The Lasso and Generalizations",
+            "front_page": "https://hastie.su.domains/StatLearnSparsity/images/sls.jpg",
+            "author": "Trevor Hastie, Robert Tibshirani and Martin Wainwright",
+            "edition": null,
+            "publisher": "Routledge",
+            "year": "2015",
+            "URL": "https://hastie.su.domains/StatLearnSparsity"
+        },
+        {
+            "title": "Statistical inference for data science",
+            "front_page": "https://d2sofvawe08yqg.cloudfront.net/LittleInferenceBook/s_hero2x?1620441866",
+            "author": "Brian Caffo",
+            "edition": null,
+            "publisher": "leanpub",
+            "year": "2015",
+            "URL": "https://leanpub.com/LittleInferenceBook"
+        },
+        {
+            "title": "Computer Vision: Algorithms and Applications",
+            "front_page": "http://szeliski.org/Book/imgs/Szeliski2ndBookFrontCover.png",
+            "author": "Richard Szeliski",
+            "edition": "2",
+            "publisher": "Springer",
+            "year": "2021",
+            "URL": "http://szeliski.org/Book/"
+        },
+        {
+            "title": "Information Theory, Inference, and Learning Algorithms",
+            "front_page": "https://assets.cambridge.org/97805216/42989/cover/9780521642989.jpg",
+            "author": "David MacKay",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2003",
+            "URL": "https://www.inference.org.uk/itprnn/book.pdf"
+        },
+        {
+            "title": "Think Bayes",
+            "front_page": "https://greenteapress.com/wp/wp-content/uploads/2021/04/think_bayes_2e_cover_medium.jpg",
+            "author": "Allen B. Downey",
+            "edition": "2",
+            "publisher": "O'REILLY",
+            "year": "2021",
+            "URL": "https://greenteapress.com/wp/think-bayes"
+        },
+        {
+            "title": "Think Stats",
+            "front_page": "http://greenteapress.com/thinkstats2/thinkstats2cover.jpg",
+            "author": "Allen B. Downey",
+            "edition": "2",
+            "publisher": "O'REILLY",
+            "year": "2014",
+            "URL": "https://greenteapress.com/wp/think-stats-2e/"
+        },
+        {
+            "title": "Machine Learning and Big Data",
+            "front_page": null,
+            "author": "Kareem Alkaseer",
+            "edition": null,
+            "publisher": null,
+            "year": "2021",
+            "URL": "http://www.kareemalkaseer.com/books/ml/"
+        },
+        {
+            "title": "Python Data Science Handbook",
+            "front_page": "https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png",
+            "author": "Jake VanderPlas",
+            "edition": null,
+            "publisher": "O'REILLY",
+            "year": "2016",
+            "URL": "https://github.com/jakevdp/PythonDataScienceHandbook"
+        },
+        {
+            "title": "Neural Networks and Deep Learning",
+            "front_page": null,
+            "author": "Michael Nielsen",
+            "edition": null,
+            "publisher": "Determination Press",
+            "year": "2015",
+            "URL": "http://neuralnetworksanddeeplearning.com/"
+        },
+        {
+            "title": "Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit",
+            "front_page": "https://learning.oreilly.com/library/cover/9780596803346/250w/",
+            "author": "Steven Bird, Ewan Klein, and Edward Loper",
+            "edition": null,
+            "publisher": "O'REILLY",
+            "year": "2009",
+            "URL": "https://www.nltk.org/book/"
+        },
+        {
+            "title": "Linear Algebra",
+            "front_page": "https://hefferon.net/linearalgebra/cover.png",
+            "author": "Jim Hefferon",
+            "edition": "4",
+            "publisher": "leanpub",
+            "year": "2020",
+            "URL": "https://hefferon.net/linearalgebra/index.html"
+        },
+        {
+            "title": "Theory of Computation",
+            "front_page": "https://hefferon.net/computation/cover.png",
+            "author": "Jim Hefferon",
+            "edition": null,
+            "publisher": null,
+            "year": "2021",
+            "URL": "https://joshua.smcvt.edu/computation/book.pdf"
+        },
+        {
+            "title": "Convex Optimization",
+            "front_page": "https://stanford.edu/~boyd/cvxbook/bv_cvxbook_cover.jpg",
+            "author": "Stephen Boyd and Lieven Vandenberghe",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2009",
+            "URL": "https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf"
+        },
+        {
+            "title": "Pattern Recognition and Machine Learning",
+            "front_page": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Springer-Cover-Image-752x1024.jpg",
+            "author": "Christopher Bishop",
+            "edition": null,
+            "publisher": "Springer",
+            "year": "2006",
+            "URL": "https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"
+        },
+        {
+            "title": "Understanding Machine Learning: From Theory to Algorithms",
+            "front_page": "https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/images/UnderstandingMachineLearning.jpg",
+            "author": "Shai Shalev-Shwartz and Shai Ben-David",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2014",
+            "URL": "https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html"
+        },
+        {
+            "title": "Foundations of Machine Learning",
+            "front_page": "http://www.cs.nyu.edu/~mohri/mlbook/10290_pptd.jpg",
+            "author": "Mehryar Mohri, Afshin Rostamizadeh and Ameet Talwalkar",
+            "edition": "2",
+            "publisher": "MIT Press",
+            "year": "2018",
+            "URL": "https://cs.nyu.edu/~mohri/mlbook"
+        },
+        {
+            "title": "Automated Machine Learning",
+            "front_page": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-05318-5",
+            "author": "Frank Hutter, Lars Kotthoff and Joaquin Vanschoren",
+            "edition": null,
+            "publisher": "Springer",
+            "year": "2019",
+            "URL": "https://www.automl.org/book/"
+        },
+        {
+            "title": "Model-based Machine Learning",
+            "front_page": null,
+            "author": "John Winn, Christopher M. Bishop, Thomas Diethe, John Guiver and Yordan Zaykov",
+            "edition": null,
+            "publisher": null,
+            "year": "2022",
+            "URL": "https://mbmlbook.com/"
+        },
+        {
+            "title": "Gaussian Processes for Machine Learning",
+            "front_page": "http://www.gaussianprocess.org/gpml/rwcover.gif",
+            "author": "Carl Edward Rasmussen and Christopher K. I. Williams",
+            "edition": null,
+            "publisher": "MIT Press",
+            "year": "2006",
+            "URL": "http://www.gaussianprocess.org/gpml/"
+        },
+        {
+            "title": "Algorithmic Aspects of Machine Learning",
+            "front_page": null,
+            "author": "Ankur Moitra",
+            "edition": null,
+            "publisher": null,
+            "year": "2014",
+            "URL": "http://people.csail.mit.edu/moitra/docs/bookex.pdf"
+        },
+        {
+            "title": "The Matrix Cookbook",
+            "front_page": null,
+            "author": "Kaare Brandt Petersen and Michael Syskind Pedersen",
+            "edition": null,
+            "publisher": null,
+            "year": "2012",
+            "URL": "https://mit6874.github.io/assets/matrix-cookbook.pdf"
+        },
+        {
+            "title": "Adversarial Robustness - Theory and Practice",
+            "front_page": null,
+            "author": "Zico Kolter and Aleksander Madry",
+            "edition": null,
+            "publisher": null,
+            "year": "2018",
+            "URL": "https://adversarial-ml-tutorial.org"
+        },
+        {
+            "title": "Learning Theory from First Principles",
+            "front_page": null,
+            "author": "Francis Bach",
+            "edition": null,
+            "publisher": "MIT Press",
+            "year": "2023",
+            "URL": "https://www.di.ens.fr/~fbach/ltfp_book.pdf"
+        },
+        {
+            "title": "Introduction to Probability",
+            "front_page": "https://images.routledge.com/common/jackets/crclarge/978113836/9781138369917.jpg",
+            "author": "Joseph K. Blitzstein and Jessica Hwang",
+            "edition": "2",
+            "publisher": "Routledge",
+            "year": "2019",
+            "URL": "http://probabilitybook.net/"
+        },
+        {
+            "title": "Bayesian Reasoning and Machine Learning",
+            "front_page": "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/jacket.gif",
+            "author": "David Barber",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2020",
+            "URL": "http://www.cs.ucl.ac.uk/staff/d.barber/brml"
+        },
+        {
+            "title": "Introduction to Probability for Data Science",
+            "front_page": "https://probability4datascience.com/pix/cover.png",
+            "author": "Stanley H. Chan",
+            "edition": null,
+            "publisher": "Michigan Publishing",
+            "year": "2021",
+            "URL": "https://probability4datascience.com"
+        }
+
+
+    ]
+}
