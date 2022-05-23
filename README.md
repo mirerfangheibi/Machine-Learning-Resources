@@ -258,6 +258,16 @@ The following materials are of high quality and free resources that I found rela
 * Course URL: [https://home.work.caltech.edu/telecourse.html](https://home.work.caltech.edu/telecourse.html)
 * Video Lecture Playlist:[http://www.youtube.com/playlist?list=PLD63A284B7615313A](http://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
+### 60. (Tuebingen) Statistical Machine Learning 2020
+
+* Course URL: [https://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/](https://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/)
+* Video Lecture PlayList: [https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
+### 61. (Tuebingen) Mathematics for Machine Learning
+
+* Course URL: [tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php](tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php)
+* Video Lecture PlayList: [https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+
 ## Books and Articles:
 
 For Books check Here: [📖](https://github.com/mirerfangheibi/Machine-Learning-Resources/blob/master/Books.md)
@@ -292,3 +302,10 @@ Thread URL: [https://twitter.com/omarsar0/status/1393162095810723845?s=28](https
 ### 9. Geometric Deep Learning
 
 * Talk URL: [https://slideslive.com/38956431/invited-talk-michael-bronstein](https://slideslive.com/38956431/invited-talk-michael-bronstein)
+
+### 10. Mathematics for Machine Learning
+
+Repo URL: [https://github.com/dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML)
+
+### 11. Principles Of Good ML Systems Design
+* Talk URL: [https://www.youtube.com/watch?app=desktop&v=t9cwk3zB7N0](https://www.youtube.com/watch?app=desktop&v=t9cwk3zB7N0)
