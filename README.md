@@ -268,7 +268,12 @@ The following materials are of high quality and free resources that I found rela
 * Course URL: [tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php](tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php)
 * Video Lecture PlayList: [https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
 
-## Books and Articles:
+### 62. (IIT) Optimization for Machine Learning
+
+* Course URL: [https://www.cse.iitb.ac.in/~ganesh/cs769/](https://www.cse.iitb.ac.in/~ganesh/cs769/)
+* Video Lecture PlayList: [https://www.youtube.com/playlist?list=PLyo3HAXSZD3xk6Bc3Fri5-efbi4NKDtlO](https://www.youtube.com/playlist?list=PLyo3HAXSZD3xk6Bc3Fri5-efbi4NKDtlO)
+
+## Books:
 
 For Books check Here: [📖](https://github.com/mirerfangheibi/Machine-Learning-Resources/blob/master/Books.md)
 
@@ -309,3 +314,6 @@ Repo URL: [https://github.com/dair-ai/Mathematics-for-ML](https://github.com/dai
 
 ### 11. Principles Of Good ML Systems Design
 * Talk URL: [https://www.youtube.com/watch?app=desktop&v=t9cwk3zB7N0](https://www.youtube.com/watch?app=desktop&v=t9cwk3zB7N0)
+
+### 12. VICReg: Tutorial and Lightweight PyTorch Implementation
+* Tutorial URL: [https://generallyintelligent.ai/open-source/2022-04-21-vicreg/](https://generallyintelligent.ai/open-source/2022-04-21-vicreg/)
