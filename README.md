@@ -273,6 +273,10 @@ The following materials are of high quality and free resources that I found rela
 * Course URL: [https://www.cse.iitb.ac.in/~ganesh/cs769/](https://www.cse.iitb.ac.in/~ganesh/cs769/)
 * Video Lecture PlayList: [https://www.youtube.com/playlist?list=PLyo3HAXSZD3xk6Bc3Fri5-efbi4NKDtlO](https://www.youtube.com/playlist?list=PLyo3HAXSZD3xk6Bc3Fri5-efbi4NKDtlO)
 
+### 63. Introduction to Deep Learning and Generative Modeling
+
+* Video Lecture PlayList: [https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
+
 ## Books:
 
 For Books check Here: [📖](https://github.com/mirerfangheibi/Machine-Learning-Resources/blob/master/Books.md)
@@ -306,6 +310,7 @@ Thread URL: [https://twitter.com/omarsar0/status/1393162095810723845?s=28](https
 
 ### 9. Geometric Deep Learning
 
+* Webiste: [https://geometricdeeplearning.com/](https://geometricdeeplearning.com/)
 * Talk URL: [https://slideslive.com/38956431/invited-talk-michael-bronstein](https://slideslive.com/38956431/invited-talk-michael-bronstein)
 
 ### 10. Mathematics for Machine Learning
