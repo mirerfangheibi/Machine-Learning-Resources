@@ -314,6 +314,15 @@
             "publisher": "Michigan Publishing",
             "year": "2021",
             "URL": "https://probability4datascience.com"
+        },
+        {
+            "title": "Probabilistic Numerics",
+            "front_page": "https://www.probabilistic-numerics.org/assets/img/textbooks/ProbabilisticNumercs_cover_small.png",
+            "author": "Philipp Hennig, Michael A. Osborne, Hans Kersting",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2022",
+            "URL": "https://www.probabilistic-numerics.org/textbooks/"
         }
 
 
