@@ -34,7 +34,7 @@ def book_grid_generator(grid_size, json_file, maximum_image_width)->None:
     markdown = ""
     for i in range(0, len(sorted_books),grid_size):
         markdown += row_generator(sorted_books[i:min(i + grid_size,len(sorted_books))],i, maximum_image_width)
-    print(markdown)
+#     print(markdown)
     with open("../Books.md",'w') as f:
         f.write(markdown)
         
