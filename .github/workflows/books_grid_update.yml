@@ -28,14 +28,3 @@ jobs:
       # Runs a single command using the runners shell
       - name: Creating new book grid from Books.json
         run: python scripts/book_grid_generator.py
-        
-      - name: commit files
-        run: |
-          git add -A
-          git commit -m "update data" -a
-          
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main  
