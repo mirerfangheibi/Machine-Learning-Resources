@@ -353,6 +353,26 @@
             "publisher": null,
             "year": "2019",
             "URL": "https://fairmlbook.org"
+        },
+                
+        {
+            "title": "Distributional Reinforcement Learning",
+            "front_page": null,
+            "author": "Marc G. Bellemare and Will Dabney, and Mark Rowland",
+            "edition": null,
+            "publisher": "MIT Press",
+            "year": "2023",
+            "URL": "https://fairmlbook.org"
+        },
+                
+        {
+            "title": "The Principles of Deep Learning Theory",
+            "front_page": "https://deeplearningtheory.com/images/PDLT-cover.jpg",
+            "author": "Daniel A. Roberts, Sho Yaida, and Boris Hanin",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2022",
+            "URL": "https://deeplearningtheory.com/"
         }
 
 
