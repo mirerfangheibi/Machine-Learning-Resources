@@ -3,10 +3,10 @@
 | **By:** Francis Bach <br>**Year:** 2023 <br>**Publisher:** MIT Press| **By:** John Wright and Yi Ma <br>**Year:** 2022 <br>**Publisher:** Cambridge University Press| **By:** Dan Jurafsky and James H. Martin <br>**Year:** 2022 <br>**Edition:** 3|
 | Front Cover Thumbnail Not Found!|  <img src="https://book-wright-ma.github.io/book-cover.jpg" alt="High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications" width = "400px" />| Front Cover Thumbnail Not Found!|
 
-| [4. Probabilistic Machine Learning: An Introduction](http://incompleteideas.net/book/the-book.html)| [5. Model-based Machine Learning](https://mbmlbook.com/)| [6. Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)|
+| [4. Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)| [5. Model-based Machine Learning](https://mbmlbook.com/)| [6. Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)|
 |:---:|:---:|:---:|
 | **By:** Kevin P. Murphy <br>**Year:** 2022 <br>**Publisher:** MIT Press| **By:** John Winn, Christopher M. Bishop, Thomas Diethe, John Guiver and Yordan Zaykov <br>**Year:** 2022| **By:** Philipp Hennig, Michael A. Osborne, Hans Kersting <br>**Year:** 2022 <br>**Publisher:** Cambridge University Press|
-|  <img src="https://probml.github.io/pml-book/figures/cover1-v2.png" alt="Probabilistic Machine Learning: An Introduction" width = "400px" />| Front Cover Thumbnail Not Found!|  <img src="https://www.probabilistic-numerics.org/assets/img/textbooks/ProbabilisticNumercs_cover_small.png" alt="Probabilistic Numerics" width = "400px" />|
+|  <img src="https://probml.github.io/pml-book/cover1.jpg" alt="Probabilistic Machine Learning: An Introduction" width = "400px" />| Front Cover Thumbnail Not Found!|  <img src="https://www.probabilistic-numerics.org/assets/img/textbooks/ProbabilisticNumercs_cover_small.png" alt="Probabilistic Numerics" width = "400px" />|
 
 | [7. Dive into Deep Learning](https://d2l.ai)| [8. An Introduction to Statistical Learning](https://www.statlearning.com)| [9. Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)|
 |:---:|:---:|:---:|
