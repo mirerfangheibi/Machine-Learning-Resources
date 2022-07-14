@@ -25,7 +25,7 @@ jobs:
           git config --local user.email "m.erfan.gh@gmail.com"
           git config --local user.name "mirerfangheibi"
           git add -A
-          git commit -m "update data" -a
+          git commit -m "Updated Books.md" -a
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
