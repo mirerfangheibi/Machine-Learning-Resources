@@ -20,9 +20,10 @@ jobs:
       - name: Creating new book grid from Books.json
         run: python scripts/book_grid_generator.py
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Updated Books.md"
-          commit_user_name: mirerfangheibi
-          commit_user_email: m.erfan.gh@gmail.com
-          commit_author: Mirerfan Gheibi <m.erfan.gh@gmail.com>
+      - name: commit and push files
+        run: |
+          git config --local user.email "m.erfan.gh@gmail.com"
+          git config --local user.name "mirerfangheibi"
+          git add -A
+          git commit -m "update book grid" -a
+          git push origin master
