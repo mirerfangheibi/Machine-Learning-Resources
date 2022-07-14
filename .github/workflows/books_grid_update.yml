@@ -18,7 +18,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Creating new book grid from Books.json
-        run: python scripts/book_grid_generator.py
+        run: python scripts/book_grid_generator.py > Books.md
 
       - name: commit and push files
         run: |
