@@ -20,9 +20,14 @@ jobs:
       - name: Creating new book grid from Books.json
         run: python scripts/book_grid_generator.py > Books.md
 
-      - name: commit and push files
+      - name: commit files
         run: |
-          git config --global user.email "m.erfan.gh@gmail.com"
-          git config --global user.name "mirerfangheibi"
-          git commit Books.md -m 'updated Books.md'
-          git push origin
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
