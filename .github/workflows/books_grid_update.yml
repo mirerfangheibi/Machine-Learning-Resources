@@ -22,7 +22,7 @@ jobs:
 
       - name: commit and push files
         run: |
-          git config --local user.email "m.erfan.gh@gmail.com"
-          git config --local user.name "mirerfangheibi"
+          git config --global user.email "m.erfan.gh@gmail.com"
+          git config --global user.name "mirerfangheibi"
           git commit Books.md -m 'updated Books.md'
           git push origin
