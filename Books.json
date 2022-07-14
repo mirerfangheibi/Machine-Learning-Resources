@@ -372,7 +372,17 @@
             "edition": null,
             "publisher": "Cambridge University Press",
             "year": "2022",
-            "URL": "https://deeplearningtheory.com/"
+            "URL": "https://deeplearningtheory.com"
+        },
+                
+        {
+            "title": "Algorithms for Decision Making",
+            "front_page": "https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262047012%26type%3D.jpg",
+            "author": "Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray",
+            "edition": null,
+            "publisher": "MIT Press",
+            "year": "2022",
+            "URL": "https://algorithmsbook.com"
         }
 
 
