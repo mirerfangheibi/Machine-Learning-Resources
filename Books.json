@@ -333,6 +333,16 @@
             "publisher": null,
             "year": "2021",
             "URL": "https://physicsbaseddeeplearning.org"
+        },
+                
+        {
+            "title": "Hands-On Data Visualization",
+            "front_page": "https://handsondataviz.org/images/0-preface/cover-400wide.jpg",
+            "author": "Jack Dougherty and Ilya Ilyankou",
+            "edition": null,
+            "publisher": "O'REILLY",
+            "year": "2022",
+            "URL": "https://handsondataviz.org"
         }
 
 
