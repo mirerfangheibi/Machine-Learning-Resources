@@ -343,6 +343,16 @@
             "publisher": "O'REILLY",
             "year": "2022",
             "URL": "https://handsondataviz.org"
+        },
+                
+        {
+            "title": "Fairness and Machine Learning",
+            "front_page": null,
+            "author": "Solon Barocas, Moritz Hardt, and Arvind Narayanan",
+            "edition": null,
+            "publisher": null,
+            "year": "2019",
+            "URL": "https://fairmlbook.org"
         }
 
 
