@@ -74,12 +74,12 @@
         },
         {
             "title": "Probabilistic Machine Learning: An Introduction",
-            "front_page": "https://probml.github.io/pml-book/figures/cover1-v2.png",
+            "front_page": "https://probml.github.io/pml-book/cover1.jpg",
             "author": "Kevin P. Murphy",
             "edition": null,
             "publisher": "MIT Press",
             "year": "2022",
-            "URL": "http://incompleteideas.net/book/the-book.html"
+            "URL": "https://probml.github.io/pml-book/book1.html"
         },
         {
             "title": "Statistical Learning with Sparsity: The Lasso and Generalizations",
