@@ -383,6 +383,16 @@
             "publisher": "MIT Press",
             "year": "2022",
             "URL": "https://algorithmsbook.com"
+        },
+                
+        {
+            "title": "Bayes Rules!",
+            "front_page": "https://www.bayesrulesbook.com/chapters/figs/index/book_cover.jpeg",
+            "author": "Alicia A. Johnson, Miles Q. Ott, and Mine Dogucu",
+            "edition": null,
+            "publisher": "CRC Press",
+            "year": "2021",
+            "URL": "https://www.bayesrulesbook.com"
         }
 
 
