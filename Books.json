@@ -453,6 +453,16 @@
             "publisher": "Interviews AI",
             "year": "2021",
             "URL": "https://arxiv.org/abs/2201.00650"
+        },
+        
+        {
+            "title": "Learning Statistical Models Through Simulation in R",
+            "front_page": null,
+            "author": "Dale J Barr",
+            "edition": null,
+            "publisher": null,
+            "year": "2021",
+            "URL": "https://psyteachr.github.io/stat-models-v1/index.html"
         }
 
 
