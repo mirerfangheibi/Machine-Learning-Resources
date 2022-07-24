@@ -443,6 +443,16 @@
             "publisher": "O'REILLY",
             "year": "2021",
             "URL": "https://datascienceatthecommandline.com/2e/index.html"
+        },
+        
+        {
+            "title": "Deep Learning Interviews",
+            "front_page": "https://production.builder.blurb.com/pdf-processing/files/P15843051-15a6682411fad74f1da5f1d9ed90c5cb125d96c442c1c4afc73f555277534758",
+            "author": "Shlomo Kashani, and Amir Ivry",
+            "edition": null,
+            "publisher": "Interviews AI",
+            "year": "2021",
+            "URL": "https://arxiv.org/abs/2201.00650"
         }
 
 
