@@ -393,6 +393,56 @@
             "publisher": "CRC Press",
             "year": "2021",
             "URL": "https://www.bayesrulesbook.com"
+        },
+        
+        {
+            "title": "Large-Scale Convex Optimization",
+            "front_page": "https://large-scale-book.mathopt.com/cvx_alg_book.jpg",
+            "author": "Ernest K. Ryu, and Wotao Yin",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2022",
+            "URL": "https://large-scale-book.mathopt.com"
+        },
+        
+        {
+            "title": "Deep Learning on Graphs",
+            "front_page": "https://web.njit.edu/~ym329/dlg_book/cover_english.png",
+            "author": "Yao Ma, and Jiliang Tang",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2021",
+            "URL": "https://web.njit.edu/~ym329/dlg_book"
+        },
+        
+        {
+            "title": "Machine Learning - A First Course for Engineers and Scientists",
+            "front_page": "http://smlbook.org/cover_small.png",
+            "author": "Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2022",
+            "URL": "http://smlbook.org"
+        },
+        
+        {
+            "title": "A Course in Machine Learning",
+            "front_page": "http://ciml.info/cover-forweb.png",
+            "author": "Hal Daumé III",
+            "edition": null,
+            "publisher": null,
+            "year": "2017",
+            "URL": "http://ciml.info"
+        },
+        
+        {
+            "title": "Data Science at the Command Line",
+            "front_page": "https://datascienceatthecommandline.com/2e/images/cover-small.png",
+            "author": "Jeroen Janssens",
+            "edition": "2",
+            "publisher": "O'REILLY",
+            "year": "2021",
+            "URL": "https://datascienceatthecommandline.com/2e/index.html"
         }
 
 
