@@ -463,6 +463,16 @@
             "publisher": null,
             "year": "2021",
             "URL": "https://psyteachr.github.io/stat-models-v1/index.html"
+        },
+        
+        {
+            "title": "Introduction to Online Convex Optimization",
+            "front_page": null,
+            "author": "Elad Hazan",
+            "edition": "2",
+            "publisher": "MIT Press",
+            "year": "2022",
+            "URL": "https://sites.google.com/view/intro-oco/home"
         }
 
 
