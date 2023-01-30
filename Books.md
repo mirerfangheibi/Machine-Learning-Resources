@@ -91,6 +91,6 @@
 | [55. Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)| [56. Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)|
 |:---:|:---:|
 | **By:** David MacKay <br>**Year:** 2003 <br>**Publisher:** Cambridge University Press| **By:** Tom Mitchell <br>**Year:** 1997 <br>**Publisher:** McGraw Hill|
-|  <img src="https://assets.cambridge.org/97805216/42989/cover/9780521642989.jpg" alt="Information Theory, Inference, and Learning Algorithms" width = "400px" />|  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoYkVCfJsVqnhuQip-_MBdVmSMPJBTLOhjfijo49XzgltHrZ0A" alt="Machine Learning" width = "400px" />|
+|  <img src="https://assets.cambridge.org/97805216/42989/cover/9780521642989.jpg" alt="Information Theory, Inference, and Learning Algorithms" width = "400px" />|  <img src="http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.gif" alt="Machine Learning" width = "400px" />|
 
 
