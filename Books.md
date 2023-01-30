@@ -88,9 +88,9 @@
 | **By:** David Kriesel <br>**Year:** 2007| **By:** Christopher Bishop <br>**Year:** 2006 <br>**Publisher:** Springer| **By:** Carl Edward Rasmussen and Christopher K. I. Williams <br>**Year:** 2006 <br>**Publisher:** MIT Press|
 | Front Cover Thumbnail Not Found!|  <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Springer-Cover-Image-752x1024.jpg" alt="Pattern Recognition and Machine Learning" width = "400px" />|  <img src="http://www.gaussianprocess.org/gpml/rwcover.gif" alt="Gaussian Processes for Machine Learning" width = "400px" />|
 
-| [55. Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)|
-|:---:|
-| **By:** David MacKay <br>**Year:** 2003 <br>**Publisher:** Cambridge University Press|
-|  <img src="https://assets.cambridge.org/97805216/42989/cover/9780521642989.jpg" alt="Information Theory, Inference, and Learning Algorithms" width = "400px" />|
+| [55. Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)| [56. Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)|
+|:---:|:---:|
+| **By:** David MacKay <br>**Year:** 2003 <br>**Publisher:** Cambridge University Press| **By:** Tom Mitchell <br>**Year:** 1997 <br>**Publisher:** McGraw Hill|
+|  <img src="https://assets.cambridge.org/97805216/42989/cover/9780521642989.jpg" alt="Information Theory, Inference, and Learning Algorithms" width = "400px" />|  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoYkVCfJsVqnhuQip-_MBdVmSMPJBTLOhjfijo49XzgltHrZ0A" alt="Machine Learning" width = "400px" />|
 
 
