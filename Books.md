@@ -21,7 +21,7 @@
 | [13. Large-Scale Convex Optimization](https://large-scale-book.mathopt.com)| [14. Machine Learning - A First Course for Engineers and Scientists](http://smlbook.org)| [15. Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/home)|
 |:---:|:---:|:---:|
 | **By:** Ernest K. Ryu, and Wotao Yin <br>**Year:** 2022 <br>**Publisher:** Cambridge University Press| **By:** Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön <br>**Year:** 2022 <br>**Publisher:** Cambridge University Press| **By:** Elad Hazan <br>**Year:** 2022 <br>**Publisher:** MIT Press <br>**Edition:** 2|
-|  <img src="https://large-scale-book.mathopt.com/cvx_alg_book.jpg" alt="Large-Scale Convex Optimization" width = "400px" />|  <img src="http://smlbook.org/cover_small.png" alt="Machine Learning - A First Course for Engineers and Scientists" width = "400px" />| Front Cover Thumbnail Not Found!|
+|  <img src="https://large-scale-book.mathopt.com/cvx_alg_book.jpg" alt="Large-Scale Convex Optimization" width = "400px" />|  <img src="http://smlbook.org/cover_small.png" alt="Machine Learning - A First Course for Engineers and Scientists" width = "400px" />|  <img src="https://mit-press-us.imgix.net/covers/9780262046985.jpg" alt="Introduction to Online Convex Optimization" width = "400px" />|
 
 | [16. Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)| [17. Dive into Deep Learning](https://d2l.ai)| [18. An Introduction to Statistical Learning](https://www.statlearning.com)|
 |:---:|:---:|:---:|
