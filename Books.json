@@ -518,6 +518,15 @@
             "publisher": "McGraw Hill",
             "year": "1997",
             "URL": "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html"
+        },
+        {
+            "title": "Computer Age Statistical Inference: Algorithms, Evidence and Data Science",
+            "front_page": "https://hastie.su.domains/CASI/images/jacket_wave_cropped.jpg",
+            "author": "Bradley Efron, and Trevor Hastie",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2016",
+            "URL": "https://hastie.su.domains/CASI/"
         }
 
 
