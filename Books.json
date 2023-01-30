@@ -509,6 +509,15 @@
             "publisher": "Cambridge University Press",
             "year": "2020",
             "URL": "https://mml-book.github.io/"
+        },
+        {
+            "title": "Machine Learning",
+            "front_page": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoYkVCfJsVqnhuQip-_MBdVmSMPJBTLOhjfijo49XzgltHrZ0A",
+            "author": "Tom Mitchell",
+            "edition": null,
+            "publisher": "McGraw Hill",
+            "year": "1997",
+            "URL": "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html"
         }
 
 
