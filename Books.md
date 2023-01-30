@@ -1,4 +1,4 @@
-| [1. Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf)| [2. Distributional Reinforcement Learning](https://fairmlbook.org)| [3. Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book2.html)|
+| [1. Learning Theory from First Principles](https://www.di.ens.fr/~fbach/ltfp_book.pdf)| [2. Distributional Reinforcement Learning](https://www.distributional-rl.org/)| [3. Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book2.html)|
 |:---:|:---:|:---:|
 | **By:** Francis Bach <br>**Year:** 2023 <br>**Publisher:** MIT Press| **By:** Marc G. Bellemare and Will Dabney, and Mark Rowland <br>**Year:** 2023 <br>**Publisher:** MIT Press| **By:** Kevin P. Murphy <br>**Year:** 2023 <br>**Publisher:** MIT Press|
 | Front Cover Thumbnail Not Found!| Front Cover Thumbnail Not Found!|  <img src="https://probml.github.io/pml-book/cover2.jpg" alt="Probabilistic Machine Learning: An Introduction" width = "400px" />|
@@ -16,7 +16,7 @@
 | [10. Hands-On Data Visualization](https://handsondataviz.org)| [11. The Principles of Deep Learning Theory](https://deeplearningtheory.com)| [12. Algorithms for Decision Making](https://algorithmsbook.com)|
 |:---:|:---:|:---:|
 | **By:** Jack Dougherty and Ilya Ilyankou <br>**Year:** 2022 <br>**Publisher:** O'REILLY| **By:** Daniel A. Roberts, Sho Yaida, and Boris Hanin <br>**Year:** 2022 <br>**Publisher:** Cambridge University Press| **By:** Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray <br>**Year:** 2022 <br>**Publisher:** MIT Press|
-|  <img src="https://handsondataviz.org/images/0-preface/cover-400wide.jpg" alt="Hands-On Data Visualization" width = "400px" />|  <img src="https://deeplearningtheory.com/images/PDLT-cover.jpg" alt="The Principles of Deep Learning Theory" width = "400px" />|  <img src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262047012%26type%3D.jpg" alt="Algorithms for Decision Making" width = "400px" />|
+|  <img src="https://handsondataviz.org/images/0-preface/cover-400wide.jpg" alt="Hands-On Data Visualization" width = "400px" />|  <img src="https://deeplearningtheory.com/images/PDLT-cover.jpg" alt="The Principles of Deep Learning Theory" width = "400px" />|  <img src="https://mit-press-us.imgix.net/covers/9780262047012.jpg" alt="Algorithms for Decision Making" width = "400px" />|
 
 | [13. Large-Scale Convex Optimization](https://large-scale-book.mathopt.com)| [14. Machine Learning - A First Course for Engineers and Scientists](http://smlbook.org)| [15. Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/home)|
 |:---:|:---:|:---:|
@@ -46,7 +46,7 @@
 | [28. Deep Learning Interviews](https://arxiv.org/abs/2201.00650)| [29. Learning Statistical Models Through Simulation in R](https://psyteachr.github.io/stat-models-v1/index.html)| [30. Linear Algebra](https://hefferon.net/linearalgebra/index.html)|
 |:---:|:---:|:---:|
 | **By:** Shlomo Kashani, and Amir Ivry <br>**Year:** 2021 <br>**Publisher:** Interviews AI| **By:** Dale J Barr <br>**Year:** 2021| **By:** Jim Hefferon <br>**Year:** 2020 <br>**Publisher:** leanpub <br>**Edition:** 4|
-|  <img src="https://production.builder.blurb.com/pdf-processing/files/P15843051-15a6682411fad74f1da5f1d9ed90c5cb125d96c442c1c4afc73f555277534758" alt="Deep Learning Interviews" width = "400px" />| Front Cover Thumbnail Not Found!|  <img src="https://hefferon.net/linearalgebra/cover.png" alt="Linear Algebra" width = "400px" />|
+| Front Cover Thumbnail Not Found!| Front Cover Thumbnail Not Found!|  <img src="https://hefferon.net/linearalgebra/cover.png" alt="Linear Algebra" width = "400px" />|
 
 | [31. Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml)| [32. Automated Machine Learning](https://www.automl.org/book/)| [33. Introduction to Probability](http://probabilitybook.net/)|
 |:---:|:---:|:---:|
@@ -56,7 +56,7 @@
 | [34. Fairness and Machine Learning](https://fairmlbook.org)| [35. Machine Learning Yearning](https://www.deeplearning.ai/programs)| [36. Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)|
 |:---:|:---:|:---:|
 | **By:** Solon Barocas, Moritz Hardt, and Arvind Narayanan <br>**Year:** 2019| **By:** Andrew Ng <br>**Year:** 2018| **By:** Richard S. Sutton and Andrew G. Barto <br>**Year:** 2018 <br>**Publisher:** MIT Press <br>**Edition:** 2|
-| Front Cover Thumbnail Not Found!| Front Cover Thumbnail Not Found!|  <img src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg" alt="Reinforcement Learning: An Introduction" width = "400px" />|
+| Front Cover Thumbnail Not Found!| Front Cover Thumbnail Not Found!|  <img src="https://mit-press-us.imgix.net/covers/9780262039246.jpg" alt="Reinforcement Learning: An Introduction" width = "400px" />|
 
 | [37. Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook)| [38. Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org)| [39. A Course in Machine Learning](http://ciml.info)|
 |:---:|:---:|:---:|
@@ -66,7 +66,7 @@
 | [40. Deep Learning](https://www.deeplearningbook.org)| [41. Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)| [42. Statistical Learning with Sparsity: The Lasso and Generalizations](https://hastie.su.domains/StatLearnSparsity)|
 |:---:|:---:|:---:|
 | **By:** Ian Goodfellow, Yoshua Bengio and Aaron Courville <br>**Year:** 2016 <br>**Publisher:** MIT Press| **By:** Jake VanderPlas <br>**Year:** 2016 <br>**Publisher:** O'REILLY| **By:** Trevor Hastie, Robert Tibshirani and Martin Wainwright <br>**Year:** 2015 <br>**Publisher:** Routledge|
-|  <img src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262035613%26type%3D.jpg" alt="Deep Learning" width = "400px" />|  <img src="https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png" alt="Python Data Science Handbook" width = "400px" />|  <img src="https://hastie.su.domains/StatLearnSparsity/images/sls.jpg" alt="Statistical Learning with Sparsity: The Lasso and Generalizations" width = "400px" />|
+|  <img src="https://mit-press-us.imgix.net/covers/9780262035613.jpg" alt="Deep Learning" width = "400px" />|  <img src="https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png" alt="Python Data Science Handbook" width = "400px" />|  <img src="https://hastie.su.domains/StatLearnSparsity/images/sls.jpg" alt="Statistical Learning with Sparsity: The Lasso and Generalizations" width = "400px" />|
 
 | [43. Statistical inference for data science](https://leanpub.com/LittleInferenceBook)| [44. Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)| [45. Think Stats](https://greenteapress.com/wp/think-stats-2e/)|
 |:---:|:---:|:---:|
