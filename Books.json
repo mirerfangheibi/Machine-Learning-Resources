@@ -482,6 +482,24 @@
             "publisher": null,
             "year": "2022",
             "URL": "https://rltheorybook.github.io/"
+        },
+        {
+            "title": "Probabilistic Machine Learning: An Introduction",
+            "front_page": "https://probml.github.io/pml-book/cover2.jpg",
+            "author": "Kevin P. Murphy",
+            "edition": null,
+            "publisher": "MIT Press",
+            "year": "2023",
+            "URL": "https://probml.github.io/pml-book/book2.html"
+        },
+        {
+            "title": "Understanding Deep Learning",
+            "front_page": null,
+            "author": "Simon J.D. Prince",
+            "edition": null,
+            "publisher": "MIT Press",
+            "year": "2023",
+            "URL": "https://udlbook.github.io/udlbook/"
         }
 
 
