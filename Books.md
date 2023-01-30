@@ -25,7 +25,7 @@
 
 | [16. Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)| [17. Dive into Deep Learning](https://d2l.ai)| [18. An Introduction to Statistical Learning](https://www.statlearning.com)|
 |:---:|:---:|:---:|
-| **By:** Alekh Agarwal, Nan Jiang, Sham M. Kakade, Wen Sun <br>**Year:** 2022| **By:** Aston Zhang, Zachary C. Lipton, Mu Li and Alexander J. Smola <br>**Year:** 2021| **By:** Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>**Year:** 2021 <br>**Publisher:** Springer <br>**Edition:** 2|
+| **By:** Alekh Agarwal, Nan Jiang, Sham M. Kakade, and Wen Sun <br>**Year:** 2022| **By:** Aston Zhang, Zachary C. Lipton, Mu Li and Alexander J. Smola <br>**Year:** 2021| **By:** Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani <br>**Year:** 2021 <br>**Publisher:** Springer <br>**Edition:** 2|
 | Front Cover Thumbnail Not Found!|  <img src="https://d2l.ai/_images/front.png" alt="Dive into Deep Learning" width = "400px" />|  <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-0716-1418-1" alt="An Introduction to Statistical Learning" width = "400px" />|
 
 | [19. Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)| [20. Think Bayes](https://greenteapress.com/wp/think-bayes)| [21. Machine Learning and Big Data](http://www.kareemalkaseer.com/books/ml/)|
@@ -48,44 +48,49 @@
 | **By:** Shlomo Kashani, and Amir Ivry <br>**Year:** 2021 <br>**Publisher:** Interviews AI| **By:** Dale J Barr <br>**Year:** 2021| **By:** Jim Hefferon <br>**Year:** 2020 <br>**Publisher:** leanpub <br>**Edition:** 4|
 | Front Cover Thumbnail Not Found!| Front Cover Thumbnail Not Found!|  <img src="https://hefferon.net/linearalgebra/cover.png" alt="Linear Algebra" width = "400px" />|
 
-| [31. Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml)| [32. Automated Machine Learning](https://www.automl.org/book/)| [33. Introduction to Probability](http://probabilitybook.net/)|
+| [31. Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml)| [32. Mathematics for Machine Learning](https://mml-book.github.io/)| [33. Automated Machine Learning](https://www.automl.org/book/)|
 |:---:|:---:|:---:|
-| **By:** David Barber <br>**Year:** 2020 <br>**Publisher:** Cambridge University Press| **By:** Frank Hutter, Lars Kotthoff and Joaquin Vanschoren <br>**Year:** 2019 <br>**Publisher:** Springer| **By:** Joseph K. Blitzstein and Jessica Hwang <br>**Year:** 2019 <br>**Publisher:** Routledge <br>**Edition:** 2|
-|  <img src="http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/jacket.gif" alt="Bayesian Reasoning and Machine Learning" width = "400px" />|  <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-05318-5" alt="Automated Machine Learning" width = "400px" />|  <img src="https://images.routledge.com/common/jackets/crclarge/978113836/9781138369917.jpg" alt="Introduction to Probability" width = "400px" />|
+| **By:** David Barber <br>**Year:** 2020 <br>**Publisher:** Cambridge University Press| **By:** Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. <br>**Year:** 2020 <br>**Publisher:** Cambridge University Press| **By:** Frank Hutter, Lars Kotthoff and Joaquin Vanschoren <br>**Year:** 2019 <br>**Publisher:** Springer|
+|  <img src="http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/jacket.gif" alt="Bayesian Reasoning and Machine Learning" width = "400px" />|  <img src="https://mml-book.github.io/static/images/mml-book-cover.jpg" alt="Mathematics for Machine Learning" width = "400px" />|  <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-05318-5" alt="Automated Machine Learning" width = "400px" />|
 
-| [34. Fairness and Machine Learning](https://fairmlbook.org)| [35. Machine Learning Yearning](https://www.deeplearning.ai/programs)| [36. Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)|
+| [34. Introduction to Probability](http://probabilitybook.net/)| [35. Fairness and Machine Learning](https://fairmlbook.org)| [36. Machine Learning Yearning](https://www.deeplearning.ai/programs)|
 |:---:|:---:|:---:|
-| **By:** Solon Barocas, Moritz Hardt, and Arvind Narayanan <br>**Year:** 2019| **By:** Andrew Ng <br>**Year:** 2018| **By:** Richard S. Sutton and Andrew G. Barto <br>**Year:** 2018 <br>**Publisher:** MIT Press <br>**Edition:** 2|
-| Front Cover Thumbnail Not Found!| Front Cover Thumbnail Not Found!|  <img src="https://mit-press-us.imgix.net/covers/9780262039246.jpg" alt="Reinforcement Learning: An Introduction" width = "400px" />|
+| **By:** Joseph K. Blitzstein and Jessica Hwang <br>**Year:** 2019 <br>**Publisher:** Routledge <br>**Edition:** 2| **By:** Solon Barocas, Moritz Hardt, and Arvind Narayanan <br>**Year:** 2019| **By:** Andrew Ng <br>**Year:** 2018|
+|  <img src="https://images.routledge.com/common/jackets/crclarge/978113836/9781138369917.jpg" alt="Introduction to Probability" width = "400px" />| Front Cover Thumbnail Not Found!| Front Cover Thumbnail Not Found!|
 
-| [37. Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook)| [38. Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org)| [39. A Course in Machine Learning](http://ciml.info)|
+| [37. Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)| [38. Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook)| [39. Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org)|
 |:---:|:---:|:---:|
-| **By:** Mehryar Mohri, Afshin Rostamizadeh and Ameet Talwalkar <br>**Year:** 2018 <br>**Publisher:** MIT Press <br>**Edition:** 2| **By:** Zico Kolter and Aleksander Madry <br>**Year:** 2018| **By:** Hal Daumé III <br>**Year:** 2017|
-|  <img src="http://www.cs.nyu.edu/~mohri/mlbook/10290_pptd.jpg" alt="Foundations of Machine Learning" width = "400px" />| Front Cover Thumbnail Not Found!|  <img src="http://ciml.info/cover-forweb.png" alt="A Course in Machine Learning" width = "400px" />|
+| **By:** Richard S. Sutton and Andrew G. Barto <br>**Year:** 2018 <br>**Publisher:** MIT Press <br>**Edition:** 2| **By:** Mehryar Mohri, Afshin Rostamizadeh and Ameet Talwalkar <br>**Year:** 2018 <br>**Publisher:** MIT Press <br>**Edition:** 2| **By:** Zico Kolter and Aleksander Madry <br>**Year:** 2018|
+|  <img src="https://mit-press-us.imgix.net/covers/9780262039246.jpg" alt="Reinforcement Learning: An Introduction" width = "400px" />|  <img src="http://www.cs.nyu.edu/~mohri/mlbook/10290_pptd.jpg" alt="Foundations of Machine Learning" width = "400px" />| Front Cover Thumbnail Not Found!|
 
-| [40. Deep Learning](https://www.deeplearningbook.org)| [41. Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)| [42. Statistical Learning with Sparsity: The Lasso and Generalizations](https://hastie.su.domains/StatLearnSparsity)|
+| [40. A Course in Machine Learning](http://ciml.info)| [41. Deep Learning](https://www.deeplearningbook.org)| [42. Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|
 |:---:|:---:|:---:|
-| **By:** Ian Goodfellow, Yoshua Bengio and Aaron Courville <br>**Year:** 2016 <br>**Publisher:** MIT Press| **By:** Jake VanderPlas <br>**Year:** 2016 <br>**Publisher:** O'REILLY| **By:** Trevor Hastie, Robert Tibshirani and Martin Wainwright <br>**Year:** 2015 <br>**Publisher:** Routledge|
-|  <img src="https://mit-press-us.imgix.net/covers/9780262035613.jpg" alt="Deep Learning" width = "400px" />|  <img src="https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png" alt="Python Data Science Handbook" width = "400px" />|  <img src="https://hastie.su.domains/StatLearnSparsity/images/sls.jpg" alt="Statistical Learning with Sparsity: The Lasso and Generalizations" width = "400px" />|
+| **By:** Hal Daumé III <br>**Year:** 2017| **By:** Ian Goodfellow, Yoshua Bengio and Aaron Courville <br>**Year:** 2016 <br>**Publisher:** MIT Press| **By:** Jake VanderPlas <br>**Year:** 2016 <br>**Publisher:** O'REILLY|
+|  <img src="http://ciml.info/cover-forweb.png" alt="A Course in Machine Learning" width = "400px" />|  <img src="https://mit-press-us.imgix.net/covers/9780262035613.jpg" alt="Deep Learning" width = "400px" />|  <img src="https://github.com/jakevdp/PythonDataScienceHandbook/raw/master/notebooks/figures/PDSH-cover.png" alt="Python Data Science Handbook" width = "400px" />|
 
-| [43. Statistical inference for data science](https://leanpub.com/LittleInferenceBook)| [44. Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)| [45. Think Stats](https://greenteapress.com/wp/think-stats-2e/)|
+| [43. Statistical Learning with Sparsity: The Lasso and Generalizations](https://hastie.su.domains/StatLearnSparsity)| [44. Statistical inference for data science](https://leanpub.com/LittleInferenceBook)| [45. Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)|
 |:---:|:---:|:---:|
-| **By:** Brian Caffo <br>**Year:** 2015 <br>**Publisher:** leanpub| **By:** Michael Nielsen <br>**Year:** 2015 <br>**Publisher:** Determination Press| **By:** Allen B. Downey <br>**Year:** 2014 <br>**Publisher:** O'REILLY <br>**Edition:** 2|
-|  <img src="https://d2sofvawe08yqg.cloudfront.net/LittleInferenceBook/s_hero2x?1620441866" alt="Statistical inference for data science" width = "400px" />| Front Cover Thumbnail Not Found!|  <img src="http://greenteapress.com/thinkstats2/thinkstats2cover.jpg" alt="Think Stats" width = "400px" />|
+| **By:** Trevor Hastie, Robert Tibshirani and Martin Wainwright <br>**Year:** 2015 <br>**Publisher:** Routledge| **By:** Brian Caffo <br>**Year:** 2015 <br>**Publisher:** leanpub| **By:** Michael Nielsen <br>**Year:** 2015 <br>**Publisher:** Determination Press|
+|  <img src="https://hastie.su.domains/StatLearnSparsity/images/sls.jpg" alt="Statistical Learning with Sparsity: The Lasso and Generalizations" width = "400px" />|  <img src="https://d2sofvawe08yqg.cloudfront.net/LittleInferenceBook/s_hero2x?1620441866" alt="Statistical inference for data science" width = "400px" />| Front Cover Thumbnail Not Found!|
 
-| [46. Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html)| [47. Algorithmic Aspects of Machine Learning](http://people.csail.mit.edu/moitra/docs/bookex.pdf)| [48. The Matrix Cookbook](https://mit6874.github.io/assets/matrix-cookbook.pdf)|
+| [46. Think Stats](https://greenteapress.com/wp/think-stats-2e/)| [47. Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/index.html)| [48. Algorithmic Aspects of Machine Learning](http://people.csail.mit.edu/moitra/docs/bookex.pdf)|
 |:---:|:---:|:---:|
-| **By:** Shai Shalev-Shwartz and Shai Ben-David <br>**Year:** 2014 <br>**Publisher:** Cambridge University Press| **By:** Ankur Moitra <br>**Year:** 2014| **By:** Kaare Brandt Petersen and Michael Syskind Pedersen <br>**Year:** 2012|
-|  <img src="https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/images/UnderstandingMachineLearning.jpg" alt="Understanding Machine Learning: From Theory to Algorithms" width = "400px" />| Front Cover Thumbnail Not Found!| Front Cover Thumbnail Not Found!|
+| **By:** Allen B. Downey <br>**Year:** 2014 <br>**Publisher:** O'REILLY <br>**Edition:** 2| **By:** Shai Shalev-Shwartz and Shai Ben-David <br>**Year:** 2014 <br>**Publisher:** Cambridge University Press| **By:** Ankur Moitra <br>**Year:** 2014|
+|  <img src="http://greenteapress.com/thinkstats2/thinkstats2cover.jpg" alt="Think Stats" width = "400px" />|  <img src="https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/images/UnderstandingMachineLearning.jpg" alt="Understanding Machine Learning: From Theory to Algorithms" width = "400px" />| Front Cover Thumbnail Not Found!|
 
-| [49. Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)| [50. Convex Optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)| [51. A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)|
+| [49. The Matrix Cookbook](https://mit6874.github.io/assets/matrix-cookbook.pdf)| [50. Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)| [51. Convex Optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)|
 |:---:|:---:|:---:|
-| **By:** Steven Bird, Ewan Klein, and Edward Loper <br>**Year:** 2009 <br>**Publisher:** O'REILLY| **By:** Stephen Boyd and Lieven Vandenberghe <br>**Year:** 2009 <br>**Publisher:** Cambridge University Press| **By:** David Kriesel <br>**Year:** 2007|
-|  <img src="https://learning.oreilly.com/library/cover/9780596803346/250w/" alt="Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit" width = "400px" />|  <img src="https://stanford.edu/~boyd/cvxbook/bv_cvxbook_cover.jpg" alt="Convex Optimization" width = "400px" />| Front Cover Thumbnail Not Found!|
+| **By:** Kaare Brandt Petersen and Michael Syskind Pedersen <br>**Year:** 2012| **By:** Steven Bird, Ewan Klein, and Edward Loper <br>**Year:** 2009 <br>**Publisher:** O'REILLY| **By:** Stephen Boyd and Lieven Vandenberghe <br>**Year:** 2009 <br>**Publisher:** Cambridge University Press|
+| Front Cover Thumbnail Not Found!|  <img src="https://learning.oreilly.com/library/cover/9780596803346/250w/" alt="Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit" width = "400px" />|  <img src="https://stanford.edu/~boyd/cvxbook/bv_cvxbook_cover.jpg" alt="Convex Optimization" width = "400px" />|
 
-| [52. Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)| [53. Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)| [54. Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)|
+| [52. A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)| [53. Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)| [54. Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)|
 |:---:|:---:|:---:|
-| **By:** Christopher Bishop <br>**Year:** 2006 <br>**Publisher:** Springer| **By:** Carl Edward Rasmussen and Christopher K. I. Williams <br>**Year:** 2006 <br>**Publisher:** MIT Press| **By:** David MacKay <br>**Year:** 2003 <br>**Publisher:** Cambridge University Press|
-|  <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Springer-Cover-Image-752x1024.jpg" alt="Pattern Recognition and Machine Learning" width = "400px" />|  <img src="http://www.gaussianprocess.org/gpml/rwcover.gif" alt="Gaussian Processes for Machine Learning" width = "400px" />|  <img src="https://assets.cambridge.org/97805216/42989/cover/9780521642989.jpg" alt="Information Theory, Inference, and Learning Algorithms" width = "400px" />|
+| **By:** David Kriesel <br>**Year:** 2007| **By:** Christopher Bishop <br>**Year:** 2006 <br>**Publisher:** Springer| **By:** Carl Edward Rasmussen and Christopher K. I. Williams <br>**Year:** 2006 <br>**Publisher:** MIT Press|
+| Front Cover Thumbnail Not Found!|  <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Springer-Cover-Image-752x1024.jpg" alt="Pattern Recognition and Machine Learning" width = "400px" />|  <img src="http://www.gaussianprocess.org/gpml/rwcover.gif" alt="Gaussian Processes for Machine Learning" width = "400px" />|
+
+| [55. Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)|
+|:---:|
+| **By:** David MacKay <br>**Year:** 2003 <br>**Publisher:** Cambridge University Press|
+|  <img src="https://assets.cambridge.org/97805216/42989/cover/9780521642989.jpg" alt="Information Theory, Inference, and Learning Algorithms" width = "400px" />|
 
 
