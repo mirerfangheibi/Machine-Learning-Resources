@@ -2,7 +2,7 @@
     "books": [ 
         {
             "title": "Deep Learning",
-            "front_page": "https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262035613%26type%3D.jpg",
+            "front_page": "https://mit-press-us.imgix.net/covers/9780262035613.jpg",
             "author": "Ian Goodfellow, Yoshua Bengio and Aaron Courville",
             "edition": null,
             "publisher": "MIT Press",
@@ -65,7 +65,7 @@
         },
         {
             "title": "Reinforcement Learning: An Introduction",
-            "front_page": "https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039246%26type%3D.jpg",
+            "front_page": "https://mit-press-us.imgix.net/covers/9780262039246.jpg",
             "author": "Richard S. Sutton and Andrew G. Barto",
             "edition": "2",
             "publisher": "MIT Press",
@@ -362,7 +362,7 @@
             "edition": null,
             "publisher": "MIT Press",
             "year": "2023",
-            "URL": "https://fairmlbook.org"
+            "URL": "https://www.distributional-rl.org/"
         },
                 
         {
@@ -377,7 +377,7 @@
                 
         {
             "title": "Algorithms for Decision Making",
-            "front_page": "https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262047012%26type%3D.jpg",
+            "front_page": "https://mit-press-us.imgix.net/covers/9780262047012.jpg",
             "author": "Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray",
             "edition": null,
             "publisher": "MIT Press",
@@ -447,7 +447,7 @@
         
         {
             "title": "Deep Learning Interviews",
-            "front_page": "https://production.builder.blurb.com/pdf-processing/files/P15843051-15a6682411fad74f1da5f1d9ed90c5cb125d96c442c1c4afc73f555277534758",
+            "front_page": null,
             "author": "Shlomo Kashani, and Amir Ivry",
             "edition": null,
             "publisher": "Interviews AI",
