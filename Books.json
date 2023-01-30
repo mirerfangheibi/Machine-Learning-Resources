@@ -477,7 +477,7 @@
         {
             "title": "Reinforcement Learning: Theory and Algorithms",
             "front_page": null,
-            "author": "Alekh Agarwal, Nan Jiang, Sham M. Kakade, Wen Sun",
+            "author": "Alekh Agarwal, Nan Jiang, Sham M. Kakade, and Wen Sun",
             "edition": null,
             "publisher": null,
             "year": "2022",
@@ -500,6 +500,15 @@
             "publisher": "MIT Press",
             "year": "2023",
             "URL": "https://udlbook.github.io/udlbook/"
+        },
+        {
+            "title": "Mathematics for Machine Learning",
+            "front_page": "https://mml-book.github.io/static/images/mml-book-cover.jpg",
+            "author": "Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.",
+            "edition": null,
+            "publisher": "Cambridge University Press",
+            "year": "2020",
+            "URL": "https://mml-book.github.io/"
         }
 
 
