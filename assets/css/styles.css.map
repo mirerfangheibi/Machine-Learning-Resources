@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACI","sourcesContent":[".current {\n    color: green;\n  }"],"file":"styles.css"}
