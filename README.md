@@ -1,3 +1,5 @@
+This repository is no longer being updated. Please check the newer version of the list at [https://mirerfangheibi.github.io/ml_resources/](https://mirerfangheibi.github.io/ml_resources/).
+
 # Deep Learning Resources
 
 The following materials are of high quality and free resources that I found related to the Deep Learning field.  I am continually updating here.
