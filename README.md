@@ -1,4 +1,4 @@
-This repository is no longer being updated. Please check the newer version of the list at [https://mirerfangheibi.github.io/ml_resources/](https://mirerfangheibi.github.io/ml_resources/).
+:warning: This repository is no longer being updated. Please check the newer version of the list at [https://mirerfangheibi.github.io/ml_resources/](https://mirerfangheibi.github.io/ml_resources/).
 
 # Deep Learning Resources
 
